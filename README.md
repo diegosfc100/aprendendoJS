@@ -23,7 +23,7 @@
 ## JavaScript  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
 
 <details>
-  <summary> :paperclip: Conceitos Básicos I </summary>
+  <summary> :paperclip: Conceitos Básicos I </summary><br>
     
 - [ ] Variáveis e Tipos de Dados.
 - [ ] Condicionais.
@@ -39,7 +39,7 @@
 </details>
 
 <details>
-<summary>:paperclip: Conceitos Básicos II </summary>
+<summary>:paperclip: Conceitos Básicos II </summary><br>
 
 - [ ] Arrays.
 - [ ] ForEach.
@@ -55,7 +55,7 @@
 </details>
 
 <details>
-<summary>:paperclip: Funções</summary>
+<summary>:paperclip: Funções</summary><br>
 
 - [ ] First Class Citizens.
 - [ ] Funções com parâmetro e retorno.
@@ -70,7 +70,7 @@
 </details>
 
 <details>
-<summary>:paperclip: Orientação a Objetos </summary>
+<summary>:paperclip: Orientação a Objetos </summary><br>
 
 - [ ] Entendendo OO.
 - [ ] Declarando Classes.
@@ -86,7 +86,7 @@
 </details>
 
 <details>
-<summary>:paperclip: Manipulando a DOM</summary>
+<summary>:paperclip: Manipulando a DOM</summary><br>
 
 - [ ] O que é a DOM?
 - [ ] Eventos Inline.
@@ -96,7 +96,7 @@
 </details>
 
 <details>
-<summary>:paperclip: JavaScript Assíncrono</summary>
+<summary>:paperclip: JavaScript Assíncrono</summary><br>
 
 - [ ] Programação Assíncrona vs Síncrona.
 - [ ] Realizando requisições AJAX.
@@ -105,7 +105,7 @@
 </details>
 
 <details>
-<summary>:paperclip: ES6+ </summary>
+<summary>:paperclip: ES6+ </summary><br>
 
 - [ ] Operadores Rest e Spread.
 - [ ] Conjuntos com Set.
