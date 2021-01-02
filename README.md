@@ -23,7 +23,8 @@
 ## JavaScript  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
 
 <details>
-  <summary>🔥 Conceitos Básicos I</summary>
+  <summary>:paperclip: Conceitos Básicos I</summary>
+  
 - [ ] Variáveis e Tipos de Dados.
 - [ ] Condicionais.
 - [ ] Operações Matemáticas.
@@ -35,10 +36,12 @@
 - [ ] Funções.
 - [ ] Trabalhando com intervalos e timeout.
 - [ ] Escopo de Variáveis.
-</details>
+</summary>
 
 
 
+
+<hr>
 :calendar:
 |Dia|Estudos|
 | -------- | ----------------- |
