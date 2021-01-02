@@ -39,7 +39,9 @@
 - [ ] Funções.
 - [ ] Trabalhando com intervalos e timeout.
 - [ ] Escopo de Variáveis.
+</details>
 
+<details>
 <summary> 
   <h3>:paperclip: Conceitos Básicos II<h3>
   </summary>
@@ -56,7 +58,9 @@
 - [ ] Destructuring.
 - [ ] Tratamento de erros com Try Catch.
 - [ ] Tratamento de erros com Try Catch.
+</details>
 
+<details>
 <summary> 
   <h3>:paperclip: Funções <h3>
   </summary>
@@ -72,7 +76,9 @@
 - [ ] Funções Closures.
 - [ ] Funções Fábrica.
 - [ ] Funções Fábrica.
+</details>
 
+<details>
 <summary> 
   <h3>:paperclip: Orientação a Objetos <h3>
   </summary>
@@ -89,7 +95,9 @@
 - [ ] Metodos de instância e métodos estáticos.
 - [ ] Objetos vs Funções.
 - [ ] Objetos vs JSON.
+</details>
 
+<details>
 <summary> 
   <h3>:paperclip: Manipulando a DOM <h3>
   </summary>
@@ -100,7 +108,9 @@
 - [ ] Trabalhando com a DOM.
 - [ ] Lidando com elementos da página.
 - [ ] Alterando estilos.
+</details>
 
+<details>
 <summary>
  <h3>:paperclip: JavaScript Assíncrono <h3>
   </summary>
@@ -110,8 +120,9 @@
 - [ ] Realizando requisições AJAX.
 - [ ] Promises.
 - [ ] Axios.
-- [ ] Axios.
+</details>
 
+<details>
 <summary>
  <h3>:paperclip: ES6+ <h3>
   </summary>
@@ -127,8 +138,6 @@
 - [ ] Import e Export.
 - [ ] Organizando o código e Webpack Dev Server.
 - [ ] Organizando o código e Webpack Dev Server.
-
-
 </details>
 
 
