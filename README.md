@@ -51,7 +51,7 @@
 - [ ] Hoisting.
 - [ ] Destructuring.
 - [ ] Tratamento de erros com Try Catch.
-- [ ] Tratamento de erros com Try Catch.
+
 </details>
 
 <details>
@@ -66,7 +66,7 @@
 - [ ] Funções Construtoras.
 - [ ] Funções Closures.
 - [ ] Funções Fábrica.
-- [ ] Funções Fábrica.
+
 </details>
 
 <details>
@@ -115,7 +115,6 @@
 - [ ] Babel.
 - [ ] Webpack Server.
 - [ ] Import e Export.
-- [ ] Organizando o código e Webpack Dev Server.
 - [ ] Organizando o código e Webpack Dev Server.
 </details>
 
