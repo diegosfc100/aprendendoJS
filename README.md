@@ -8,4 +8,4 @@
 
 |Dia|Estudos|
 | -------- | ----------------- |
-| 1 | Olá, Mundoooooooo =) |  | 
+| 1 |<a href="https://github.com/diegosfc100/365daysofJS/blob/master/script.js"> Olá, Mundoooooooo =)</a> |  | 
