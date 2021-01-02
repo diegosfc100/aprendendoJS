@@ -23,9 +23,7 @@
 ## JavaScript  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
 
 <details>
-  <summary> 
-  :paperclip: Conceitos Básicos I
-  </summary>
+  <summary> :paperclip: Conceitos Básicos I </summary>
     
 - [ ] Variáveis e Tipos de Dados.
 - [ ] Condicionais.
@@ -41,9 +39,7 @@
 </details>
 
 <details>
-<summary> 
-  <h3>:paperclip: Conceitos Básicos II<h3>
-  </summary>
+<summary>:paperclip: Conceitos Básicos II </summary>
 
 - [ ] Arrays.
 - [ ] ForEach.
@@ -59,9 +55,7 @@
 </details>
 
 <details>
-<summary> 
-  <h3>:paperclip: Funções <h3>
-  </summary>
+<summary>:paperclip: Funções</summary>
 
 - [ ] First Class Citizens.
 - [ ] Funções com parâmetro e retorno.
@@ -76,9 +70,7 @@
 </details>
 
 <details>
-<summary> 
-  <h3>:paperclip: Orientação a Objetos <h3>
-  </summary>
+<summary>:paperclip: Orientação a Objetos </summary>
 
 - [ ] Entendendo OO.
 - [ ] Declarando Classes.
@@ -94,9 +86,7 @@
 </details>
 
 <details>
-<summary> 
-  <h3>:paperclip: Manipulando a DOM <h3>
-  </summary>
+<summary>:paperclip: Manipulando a DOM</summary>
 
 - [ ] O que é a DOM?
 - [ ] Eventos Inline.
@@ -106,9 +96,7 @@
 </details>
 
 <details>
-<summary>
- <h3>:paperclip: JavaScript Assíncrono <h3>
-  </summary>
+<summary>:paperclip: JavaScript Assíncrono</summary>
 
 - [ ] Programação Assíncrona vs Síncrona.
 - [ ] Realizando requisições AJAX.
@@ -117,9 +105,7 @@
 </details>
 
 <details>
-<summary>
- <h3>:paperclip: ES6+ <h3>
-  </summary>
+<summary>:paperclip: ES6+ </summary>
 
 - [ ] Operadores Rest e Spread.
 - [ ] Conjuntos com Set.
