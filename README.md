@@ -24,10 +24,9 @@
 
 <details>
   <summary> 
-  <h3>:paperclip: Conceitos Básicos I<h3>
+  :paperclip: Conceitos Básicos I
   </summary>
-  <br>
-  
+    
 - [ ] Variáveis e Tipos de Dados.
 - [ ] Condicionais.
 - [ ] Operações Matemáticas.
@@ -45,7 +44,6 @@
 <summary> 
   <h3>:paperclip: Conceitos Básicos II<h3>
   </summary>
-  <br>
 
 - [ ] Arrays.
 - [ ] ForEach.
@@ -64,7 +62,6 @@
 <summary> 
   <h3>:paperclip: Funções <h3>
   </summary>
-  <br>
 
 - [ ] First Class Citizens.
 - [ ] Funções com parâmetro e retorno.
@@ -82,7 +79,6 @@
 <summary> 
   <h3>:paperclip: Orientação a Objetos <h3>
   </summary>
-  <br>
 
 - [ ] Entendendo OO.
 - [ ] Declarando Classes.
@@ -101,7 +97,6 @@
 <summary> 
   <h3>:paperclip: Manipulando a DOM <h3>
   </summary>
-  <br>
 
 - [ ] O que é a DOM?
 - [ ] Eventos Inline.
@@ -114,7 +109,6 @@
 <summary>
  <h3>:paperclip: JavaScript Assíncrono <h3>
   </summary>
-  <br>
 
 - [ ] Programação Assíncrona vs Síncrona.
 - [ ] Realizando requisições AJAX.
@@ -126,7 +120,6 @@
 <summary>
  <h3>:paperclip: ES6+ <h3>
   </summary>
-  <br>
 
 - [ ] Operadores Rest e Spread.
 - [ ] Conjuntos com Set.
