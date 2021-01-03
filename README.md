@@ -20,14 +20,14 @@
 - [33 Conceitos que todo desenvolvedor JS deve conhecer  ](https://github.com/tiagoboeing/33-js-concepts#13-dom-e-layout-trees)
 <hr>
 
-## JavaScript  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
+## JavaScript
 
 <details>
   <summary> :paperclip: Conceitos Básicos I </summary><br>
     
 - [x] Variáveis e Tipos de Dados (string, inteiro, float, booleano,array, objeto).
 - [x] Condicionais (if, else, else if, switch).
-- [ ] Operações Matemáticas.
+- [x] Operações Matemáticas.
 - [ ] Estruturas de Repetição.
 - [ ] Operadores Lógicos.
 - [ ] Operadores Relacionais.
@@ -127,3 +127,4 @@
 | -------- | ----------------- |
 | 1 |<a href="https://github.com/diegosfc100/365daysofJS/blob/master/script.js"> Olá, Mundoooooooo =)</a> |  | 
 | 2 | Resolvi exercícios do módulo 01-Básico <a href="https://github.com/diegosfc100/365daysofJS/tree/master/freecodecamp-javascript/01-Basico"> Freecodecamp</a> |  | 
+| 3 | Estudei sobre variáveis/tipos de dados, condicionais e operações matemáticas. |  | 
