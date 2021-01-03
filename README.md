@@ -126,3 +126,4 @@
 |Dia|Estudos|
 | -------- | ----------------- |
 | 1 |<a href="https://github.com/diegosfc100/365daysofJS/blob/master/script.js"> Olá, Mundoooooooo =)</a> |  | 
+| 2 | Resolvi exercícios do módulo 01-Básico <a href="https://github.com/diegosfc100/365daysofJS/tree/master/freecodecamp-javascript/01-Basico"> Freecodecamp</a> |  | 
