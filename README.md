@@ -25,8 +25,8 @@
 <details>
   <summary> :paperclip: Conceitos Básicos I </summary><br>
     
-- [ ] Variáveis e Tipos de Dados.
-- [ ] Condicionais.
+- [x] Variáveis e Tipos de Dados (string, inteiro, float, booleano,array, objeto).
+- [x] Condicionais (if, else, else if, switch).
 - [ ] Operações Matemáticas.
 - [ ] Estruturas de Repetição.
 - [ ] Operadores Lógicos.
