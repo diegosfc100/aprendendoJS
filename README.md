@@ -11,10 +11,10 @@
  ## :books: Recursos:
 
 - [Curso - Programação em JavaScript do básico ao avançado.](https://www.udemy.com/course/curso-de-programacao-em-javascript-do-basico-ao-avancado/learn/lecture/16337750#overview)
+- [Documentação](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide)
 - [Freecodecamp - JavaScript and Data Structures ](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
 - [W3Schools - JavaScript Tutorial](https://www.w3schools.com/js/default.asp)
 - [Livro - Eloquent JavaScript ](https://github.com/braziljs/eloquente-javascript)
-- [Documentação](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Tutorial JS Begginer](https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 - [Tutorial de JavaScript moderno ](https://javascript.info/)
 - [33 Conceitos que todo desenvolvedor JS deve conhecer  ](https://github.com/tiagoboeing/33-js-concepts#13-dom-e-layout-trees)
