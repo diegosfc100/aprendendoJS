@@ -125,10 +125,9 @@
 |Dia|Estudos|
 | -------- | ----------------- |
 | 1 |<a href="https://github.com/diegosfc100/365daysofJS/blob/master/script.js"> Olá, Mundoooooooo =)</a> |  | 
-| 2 | Resolvi exercícios do módulo 01-Básico <a href="https://github.com/diegosfc100/365daysofJS/tree/master/freecodecamp-javascript/01-Basico"> Freecodecamp</a> |  | 
+| 2 | Resolvi  <a href="https://github.com/diegosfc100/365daysofJS/tree/master/freecodecamp-javascript/01-Basico"> exercícios do módulo 01-Básico Freecodecamp.</a> |  | 
 | 3 | Estudei sobre <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Values%2C_variables%2C_and_literals"> variáveis/tipos de dados</a>, <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Declara%C3%A7%C3%B5es#if...else_statement">condicionais </a> |  | 
-| 4 | Estudei sobre <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Lacos_e_iteracoes"> estruturas de repetição </a>, <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Operadores_Logicos"> operadores lógicos </a>, <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Operadores_de_compara%C3%A7%C3%A3o#Operadores_relacionais"> operadores relacionais </a>, 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators"> operadores aritméticos </a> e <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Functions"> introdução à funções.</a>|  | 
+| 4 | Estudei sobre <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Lacos_e_iteracoes"> estruturas de repetição </a>, <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Operadores_Logicos"> operadores lógicos </a>, <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Operadores_de_compara%C3%A7%C3%A3o#Operadores_relacionais"> operadores relacionais </a>,<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators"> operadores aritméticos </a> e <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Functions"> introdução à funções.</a> |  | 
 
 
 
