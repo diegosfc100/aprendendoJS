@@ -5,6 +5,10 @@ if (idade >= 18){ // se idade for maior ou igual a 18 ..
 }else{ // senão
     console.log("Menor de idade."); // imprima "menor de idade".
 }
+//obs: também conhecido como Operação Ternária.
+
+// Outro modo:
+console.log(idade >= 18 ? "Maior de idade." : "Menor de Idade");
 
 //
 

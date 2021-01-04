@@ -1,4 +1,6 @@
+// UNARIO é o nome dado a operação feita apenas com uma variavel/elemento.
 var nome = "Diego Rodrigues"; //aspas duplas
+console.log(nome)
 
 var sobrenome = 'Oliveira'; // aspas simples
 
