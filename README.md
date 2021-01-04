@@ -27,12 +27,12 @@
   <summary> :paperclip: Conceitos Básicos I </summary><br>
     
 - [x] <a href="https://github.com/diegosfc100/365daysofJS/blob/master/conceitos-basicos/variaveis-tipos_de_dados.js"> Variáveis e Tipos de Dados (string, inteiro, float, booleano,array, objeto).</a>
-- [x] Condicionais (if, else, else if, switch).
-- [x] Estruturas de Repetição (for, while, do while).
-- [x] Operadores Lógicos (AND, OR , NOT).
-- [x] Operadores Relacionais( == , != , > , < , >= , <= , === , !== ).
-- [x] Operadores Aritméticos (+ , - , * , / , % ).
-- [x] Introdução à Funções.
+- [x] <a href="https://github.com/diegosfc100/365daysofJS/blob/master/conceitos-basicos/estruturas-condicionais.js"> Condicionais (if, else, else if, switch).</a>
+- [x] <a href="https://github.com/diegosfc100/365daysofJS/blob/master/conceitos-basicos/estruturas-de-repeticao.js"> Estruturas de Repetição (for, while, do while).</a>
+- [x] <a href="https://github.com/diegosfc100/365daysofJS/blob/master/conceitos-basicos/operadores-logicos.js"> Operadores Lógicos (AND, OR , NOT).</a>
+- [x] <a href="https://github.com/diegosfc100/365daysofJS/blob/master/conceitos-basicos/operadores-relacionais.js"> Operadores Relacionais( == , != , > , < , >= , <= , === , !== ).</a>
+- [x] <a href="https://github.com/diegosfc100/365daysofJS/blob/master/conceitos-basicos/operadores-aritmeticos.js"> Operadores Aritméticos (+ , - , * , / , % ).</a>
+- [x] <a href="https://github.com/diegosfc100/365daysofJS/blob/master/conceitos-basicos/funcoes-intro.js"> Introdução à Funções. </a>
 - [ ] Trabalhando com intervalos e timeout.
 - [ ] Escopo de Variáveis.
 </details>
