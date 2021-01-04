@@ -127,4 +127,4 @@
 | -------- | ----------------- |
 | 1 |<a href="https://github.com/diegosfc100/365daysofJS/blob/master/script.js"> Olá, Mundoooooooo =)</a> |  | 
 | 2 | Resolvi exercícios do módulo 01-Básico <a href="https://github.com/diegosfc100/365daysofJS/tree/master/freecodecamp-javascript/01-Basico"> Freecodecamp</a> |  | 
-| 3 | Estudei sobre variáveis/tipos de dados, condicionais e operações matemáticas. |  | 
+| 3 | Estudei sobre <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Values%2C_variables%2C_and_literals"> variáveis/tipos de dados</a>, <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Declara%C3%A7%C3%B5es#if...else_statement">condicionais </a> e <a href="https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/Matematica">operações matemáticas.</a> |  | 
