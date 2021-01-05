@@ -4,7 +4,8 @@
 
 ## 🎯 Objetivos: 
 - Ficar Ninja em JS.
-- Estudar/Programar Javascript no mínimo 1 hora todos os dias durante os próximos 365 dias!<br>
+- Estudar/Programar Javascript no mínimo 1 hora todos os dias durante os próximos 365 dias!
+- Concluir o Módulo JavaScript Algrithms and Data Strutures do Freecodecamp.
 - Revisar o conteúdo já estudado, acrescentando mais conteúdo/exercícios ou apenas revendo.
 
 <hr>
@@ -33,8 +34,8 @@
 - [x] <a href="https://github.com/diegosfc100/365daysofJS/blob/master/conceitos-basicos/operadores-relacionais.js"> Operadores Relacionais( == , != , > , < , >= , <= , === , !== ).</a>
 - [x] <a href="https://github.com/diegosfc100/365daysofJS/blob/master/conceitos-basicos/operadores-aritmeticos.js"> Operadores Aritméticos (+ , - , * , / , % ).</a>
 - [x] <a href="https://github.com/diegosfc100/365daysofJS/blob/master/conceitos-basicos/funcoes-intro.js"> Introdução à Funções. </a>
-- [ ] Trabalhando com intervalos e timeout.
-- [ ] Escopo de Variáveis.
+- [x] <a href="https://github.com/diegosfc100/365daysofJS/blob/master/conceitos-basicos/intervalo_timeout.js"> Trabalhando com intervalos e timeout. </a>
+- [x] <a href=" https://github.com/diegosfc100/365daysofJS/blob/master/conceitos-basicos/escopo-de-variaveis.js"> Escopo de Variáveis. </a>
 </details>
 
 <details>
@@ -119,16 +120,16 @@
 
 
 
+<p align="center">
+  <img src="https://cloud.githubusercontent.com/assets/3603793/18837293/9f2732da-83d9-11e6-8a7d-a421115f6b84.png" alt="Calendar Icon" width="100" />
 
-
-:calendar:
 |Dia|Estudos|
 | -------- | ----------------- |
 | 1 |<a href="https://github.com/diegosfc100/365daysofJS/blob/master/script.js"> Olá, Mundoooooooo =)</a> |  | 
 | 2 | Resolvi  <a href="https://github.com/diegosfc100/365daysofJS/tree/master/freecodecamp-javascript/01-Basico"> exercícios do módulo 01-Básico Freecodecamp.</a> |  | 
 | 3 | Estudei sobre <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Values%2C_variables%2C_and_literals"> variáveis/tipos de dados</a>, <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Declara%C3%A7%C3%B5es#if...else_statement">condicionais </a> |  | 
 | 4 | Estudei sobre <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Lacos_e_iteracoes"> estruturas de repetição </a>, <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Operadores_Logicos"> operadores lógicos </a>, <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Operadores_de_compara%C3%A7%C3%A3o#Operadores_relacionais"> operadores relacionais </a>,<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators"> operadores aritméticos </a> e <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Functions"> introdução à funções.</a> |  | 
-
+| 5| Estudei sobre <a href="https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Asynchronous/Timeouts_and_intervals"> intervalos e timeout</a> e <a href="https://medium.com/weyes/entendendo-o-uso-de-escopo-no-javascript-3669172ca5ba"> escopo de variáveis. </a> |  |
 
 
 
