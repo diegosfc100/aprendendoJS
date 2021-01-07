@@ -41,7 +41,7 @@
 <details>
 <summary>:paperclip: Conceitos Básicos II </summary><br>
 
-- [ ] Arrays.
+- [x] <a href="https://github.com/diegosfc100/365daysofJS/blob/master/conceitos-basicosII/intro_array.js"> Arrays.</a>
 - [ ] ForEach.
 - [ ] Map.
 - [ ] Filter.
@@ -131,4 +131,4 @@
 | 4 | Estudei sobre <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Lacos_e_iteracoes"> estruturas de repetição </a>, <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Operadores_Logicos"> operadores lógicos </a>, <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Operadores_de_compara%C3%A7%C3%A3o#Operadores_relacionais"> operadores relacionais </a>,<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators"> operadores aritméticos </a> e <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Functions"> introdução à funções.</a> |  | 
 | 5| Estudei sobre <a href="https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Asynchronous/Timeouts_and_intervals"> intervalos e timeout</a> e <a href="https://medium.com/weyes/entendendo-o-uso-de-escopo-no-javascript-3669172ca5ba"> escopo de variáveis. </a> |  |
 | 6 | Revisei alguns conteúdos já estudados e <a href="https://github.com/diegosfc100/365daysofJS/tree/master/freecodecamp-javascript/01-Basico"> resolvi exercícios do módulo 01-Básico Freecodecamp.</a> |  | 
-
+| 7 | Resolvi  <a href="https://github.com/diegosfc100/365daysofJS/tree/master/freecodecamp-javascript/01-Basico"> exercícios do módulo 01-Básico Freecodecamp</a> e estudei sobre <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array"> arrays.</a>|  | 
