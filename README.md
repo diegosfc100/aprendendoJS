@@ -42,12 +42,12 @@
 <summary>:paperclip: Conceitos Básicos II </summary><br>
 
 - [x] <a href="https://github.com/diegosfc100/365daysofJS/blob/master/conceitos-basicosII/intro_array.js"> Arrays.</a>
-- [ ] ForEach.
-- [ ] Map.
-- [ ] Filter.
-- [ ] Reduce.
-- [ ] Var, Let e Const.
-- [ ] Template Strings.
+- [x] ForEach.
+- [x] Map.
+- [x] Filter.
+- [x] Reduce.
+- [x] Diferenças entre var, let e const.
+- [x] Template Strings.
 - [ ] Hoisting.
 - [ ] Destructuring.
 - [ ] Tratamento de erros com Try Catch.
@@ -132,3 +132,4 @@
 | 5| Estudei sobre <a href="https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Asynchronous/Timeouts_and_intervals"> intervalos e timeout</a> e <a href="https://medium.com/weyes/entendendo-o-uso-de-escopo-no-javascript-3669172ca5ba"> escopo de variáveis. </a> |  |
 | 6 | Revisei alguns conteúdos já estudados e <a href="https://github.com/diegosfc100/365daysofJS/tree/master/freecodecamp-javascript/01-Basico"> resolvi exercícios do módulo 01-Básico Freecodecamp.</a> |  | 
 | 7 | Resolvi  <a href="https://github.com/diegosfc100/365daysofJS/tree/master/freecodecamp-javascript/01-Basico"> exercícios do módulo 01-Básico Freecodecamp</a> e estudei sobre <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array"> arrays.</a>|  | 
+| 8 | Estudei sobre <a href="https://www.devmedia.com.br/javascript-foreach-executando-uma-funcao-para-cada-elemento-de-um-array/39808"> forEach</a>, <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/map"> .map</a>, <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/filtro">.filter</a>, <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce">.reduce</a>,<a href="https://medium.com/collabcode/javascript-e-suas-vari%C3%A1veis-var-let-e-const-b035b44c2dab"> diferenças entre var let const</a>, <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/template_strings"> template strings </a>, e resolvi alguns exercícios no <a href="https://github.com/diegosfc100/365daysofJS/tree/master/freecodecamp-javascript/01-Basico"> Freecodecamp. </a> |  | 
