@@ -15,12 +15,9 @@
 
 - [Curso - Programação em JavaScript do básico ao avançado.](https://www.udemy.com/course/curso-de-programacao-em-javascript-do-basico-ao-avancado/learn/lecture/16337750#overview)
 - [Documentação](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide)
-- [Freecodecamp - JavaScript and Data Structures ](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
-- [Livro - Eloquent JavaScript ](https://github.com/braziljs/eloquente-javascript)
-- [Tutorial JS Begginer](https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
-- [Tutorial de JavaScript moderno ](https://javascript.info/)
-- [33 Conceitos que todo desenvolvedor JS deve conhecer  ](https://github.com/tiagoboeing/33-js-concepts#13-dom-e-layout-trees)
-<hr>
+- [Livro - You Don't Know JS ](https://github.com/cezaraugusto/You-Dont-Know-JS)
+
+
 
 ## JavaScript
 
@@ -133,3 +130,4 @@
 | 6 | Revisei alguns conteúdos já estudados e <a href="https://github.com/diegosfc100/365daysofJS/tree/master/freecodecamp-javascript/01-Basico"> resolvi exercícios do módulo 01-Básico Freecodecamp.</a> |  | 
 | 7 | Resolvi  <a href="https://github.com/diegosfc100/365daysofJS/tree/master/freecodecamp-javascript/01-Basico"> exercícios do módulo 01-Básico Freecodecamp</a> e estudei sobre <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array"> arrays.</a>|  | 
 | 8 | Estudei sobre <a href="https://www.devmedia.com.br/javascript-foreach-executando-uma-funcao-para-cada-elemento-de-um-array/39808"> forEach</a>, <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/map"> .map</a>, <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/filtro">.filter</a>, <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce">.reduce</a>,<a href="https://medium.com/collabcode/javascript-e-suas-vari%C3%A1veis-var-let-e-const-b035b44c2dab"> diferenças entre var let const</a>, <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/template_strings"> template strings </a>, e resolvi alguns exercícios no <a href="https://github.com/diegosfc100/365daysofJS/tree/master/freecodecamp-javascript/01-Basico"> Freecodecamp. </a> |  | 
+| 9 | Resolvi  <a href="https://github.com/diegosfc100/365daysofJS/tree/master/freecodecamp-javascript/01-Basico"> exercícios do módulo 01-Básico Freecodecamp.</a> |  | 
