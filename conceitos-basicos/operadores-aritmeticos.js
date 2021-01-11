@@ -1,25 +1,54 @@
-var num1 = 10;
-var num2 = 5;
+var num1 = 5, num2 = 10; num3 = 10, num4 = 70, num5 = "Heloo, World.";
 
-var num3 = 10, num4 = 70, num5 = "Heloo, World."
-
-// Soma:
+// SOMA:
 var res = num1 + num2;
 console.log("O resultado da soma é : " + res) 
 
-// Subtração:
+// Booleano + Número -> adição
+res = true + 1 // 2
+
+// Booleano + Booleano -> adição
+res = false + false // 0
+
+// Número + String -> concatenação
+res = 5 + "foo" // "5foo"
+
+// String + Booleano -> concatenação
+res = "foo" + false // "foofalse"
+
+// String + String -> concatenação
+res = "foo" + "bar" // "foobar"
+
+// SUBTRAÇÃO:
 res = num1 - num2;
 console.log("O resultado da subtração é : " + res) 
 
-// Multiplicação:
+// MULTIPLICAÇÃO:
 res = num1 * num2;
 console.log("O resultado da multiplicação é : " + res) 
 
-// Divisão:
+// DIVISÃO:
 res = num1 / num2;
 console.log("O resultado da divisão é : " + res) 
 
-// Módulo(resto da divisão)
+2.0 / 0    // retorna Infinity 
+2.0 / 0.0  // retorna Infinity também
+2.0 / -0.0 // retorna -Infinity 
+
+//EXPONENCIAÇÃO:
+res = 2 ** 3;
+console.log(res);
+
+2 ** 3 // 8
+3 ** 2 // 9
+3 ** 2.5 // 15.588457268119896
+10 ** -1 // 0.1
+NaN ** 2 // NaN
+2 ** 3 ** 2 // 512
+2 ** (3 ** 2) // 512
+(2 ** 3) ** 2 // 64
+
+// MODULO(resto da divisão)
 res = num2 % 2;
 console.log("O resto da divisão é : " + res) 
 
@@ -27,7 +56,7 @@ console.log("O resto da divisão é : " + res)
 num1 = num1 + 1; // num10 += 1;
 console.log(num1)
 
-console.log(num1++); // imprime a variavel (=11) e depois incrementa (=12).
+console.log(num1++); // imprime a variavel e depois incrementa.
 console.log(num1++);
 console.log(num1++);
 console.log(--num1);// decrementa e depois imprime.
@@ -68,3 +97,7 @@ console.log((100).toString(2)) // converte o valor para binario.
 
 var n1 = 10
 console.log(n1.toString(2)) // 'n1' será convertido para binario.
+
+//
+
+
