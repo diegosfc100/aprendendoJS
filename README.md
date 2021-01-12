@@ -45,17 +45,17 @@
 - [x] Reduce.
 - [x] Diferenças entre var, let e const.
 - [x] Template Strings.
-- [ ] Hoisting.
-- [ ] Destructuring.
-- [ ] Tratamento de erros com Try Catch.
+- [x] Hoisting.
+- [x] Destructuring.
+- [x] Tratamento de erros com Try Catch.
 
 </details>
 
 <details>
 <summary>:paperclip: Funções</summary><br>
 
-- [ ] First Class Citizens.
-- [ ] Funções com parâmetro e retorno.
+- [x] First Class Citizens.
+- [x] Funções com parâmetro e retorno.
 - [ ] Funções com parâmetros variáveis e valor padrão.
 - [ ] Arrow Functions.
 - [ ] Funções Anonimas(Lambdas).
@@ -133,3 +133,4 @@
 | 9 | Resolvi  <a href="https://github.com/diegosfc100/365daysofJS/tree/master/freecodecamp-javascript/01-Basico"> exercícios do módulo 01-Básico Freecodecamp.</a> |  | 
 | 10 | Revisei alguns conteúdos já estudados. |  |
 | 11 | Revisei alguns conteúdos já estudados e estudei sobre try catch, hoisting e destructuring. |  |
+| 12 | Estudei sobre Funções (first class citizens; parametro e return; parametros variaveis e valor padrão). |  |
