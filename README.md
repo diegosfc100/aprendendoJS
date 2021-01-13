@@ -56,7 +56,7 @@
 
 - [x] First Class Citizens.
 - [x] Funções com parâmetro e retorno.
-- [ ] Funções com parâmetros variáveis e valor padrão.
+- [x] Funções com parâmetros variáveis e valor padrão.
 - [ ] Arrow Functions.
 - [ ] Funções Anonimas(Lambdas).
 - [ ] Funções Callbacks.
@@ -134,3 +134,4 @@
 | 10 | Revisei alguns conteúdos já estudados. |  |
 | 11 | Revisei alguns conteúdos já estudados e estudei sobre try catch, hoisting e destructuring. |  |
 | 12 | Estudei sobre Funções (first class citizens; parametro e return; parametros variaveis e valor padrão). |  |
+| 13 | Estudei sobre Funções (callbacks, closures, lambdas, funções construtoras e funcçoes de fabrica). |  |
