@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-## Introduction to JavaScript
-
-JavaScript é uma linguagem de programação de alto nível compatível com todos os navegadores modernos. É também uma das principais tecnologias da web, junto com HTML e CSS que você pode ter aprendido anteriormente. Esta seção cobrirá os conceitos básicos de programação JavaScript, que variam de variáveis ​​e aritmética a objetos e loops. 
-=======
 <h1 align="center">
    🚀 #365DaysOfJS
 </h1>
@@ -141,4 +136,3 @@ JavaScript é uma linguagem de programação de alto nível compatível com todo
 | 12 | Estudei sobre Funções (first class citizens; parametro e return; parametros variaveis e valor padrão). |  |
 | 13 | Estudei sobre Funções (callbacks, closures, lambdas, funções construtoras e funções de fabrica). |  |
 | 14 | Resolvi alguns exercícios no <a href="https://github.com/diegosfc100/365daysofJS/tree/master/freecodecamp-javascript/01-Basico"> Freecodecamp. </a> |  | 
->>>>>>> 2b7bb5a39b5d0a61ea2afce7925e7f7834eec8f5
