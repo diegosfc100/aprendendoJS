@@ -14,18 +14,22 @@ console.log(curso); // Objeto JavaScript
 console.log(curso.preco());
 console.log(typeof(curso));
 
-// // Convertendo o objeto JavaScript para JSON
-// const json = JSON.stringify(curso);
-// console.log(json); // JSON
-// console.log(typeof(json));
+
+// Convertendo o objeto JavaScript para JSON
+
+const json = JSON.stringify(curso); // convertendo objeto 'curso' numa string JSON.
+console.log(json); // JSON
+console.log(typeof(json));
+
 
 // // Convertendo de JSON para Objeto JavaScript
-// const obj = JSON.parse(json);
-// console.log(obj);
-// console.log(typeof(obj));
 
-//const json_errado = "{'nome': 'Programação em JavaScript', 'preco': 27.99}";
+const obj = JSON.parse(json);
+console.log(obj);
+console.log(typeof(obj));
 
+
+//const json_errado = "{'nome': 'Programação em JavaScript', 'preco': 27.99}"; // aspas simples.
 const json_corrigido = '{"nome": "Programação em JavaScript", "preco": 27.99}';
 
 console.log(json_corrigido);
