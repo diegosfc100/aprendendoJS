@@ -69,17 +69,15 @@
 <details>
 <summary>:paperclip: Orientação a Objetos </summary><br>
 
-- [ ] Entendendo OO.
-- [ ] Declarando Classes.
-- [ ] Declarando Atributos.
-- [ ] Declarando Métodos.
-- [ ] Instanciando Objetos.
-- [ ] Objetos e suas funções.
-- [ ] Herança.
-- [ ] Sobrescrita de Método e Polimorfismo.
-- [ ] Metodos de instância e métodos estáticos.
-- [ ] Objetos vs Funções.
-- [ ] Objetos vs JSON.
+- [x] Declarando Atributos.
+- [x] Declarando Métodos.
+- [x] Instanciando Objetos.
+- [x] Objetos e suas funções.
+- [x] Herança.
+- [x] Sobrescrita de Método e Polimorfismo.
+- [x] Metodos de instância e métodos estáticos.
+- [x] Objetos vs Funções.
+- [x] Objetos vs JSON.
 </details>
 
 <details>
@@ -139,3 +137,4 @@
 | 15 | Resolvi alguns exercícios no <a href="https://github.com/diegosfc100/365daysofJS/tree/master/freecodecamp-javascript/01-Basico"> Freecodecamp. </a> |  | 
 | 16 | Revisei alguns conteúdos já estudados. |  |
 | 17 | Resolvi alguns exercícios no <a href="https://github.com/diegosfc100/365daysofJS/tree/master/freecodecamp-javascript/01-Basico"> Freecodecamp. </a> |  | 
+| 18 | Estudei sobre Funções Orientação a Objetos. |  |
