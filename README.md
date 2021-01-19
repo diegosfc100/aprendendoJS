@@ -83,11 +83,11 @@
 <details>
 <summary>:paperclip: Manipulando a DOM</summary><br>
 
-- [ ] O que é a DOM?
-- [ ] Eventos Inline.
-- [ ] Trabalhando com a DOM.
-- [ ] Lidando com elementos da página.
-- [ ] Alterando estilos.
+- [x] O que é a DOM?
+- [x] Eventos Inline.
+- [x] Trabalhando com a DOM.
+- [x] Lidando com elementos da página.
+- [x] Alterando estilos.
 </details>
 
 <details>
@@ -138,3 +138,4 @@
 | 16 | Revisei alguns conteúdos já estudados. |  |
 | 17 | Resolvi alguns exercícios no <a href="https://github.com/diegosfc100/365daysofJS/tree/master/freecodecamp-javascript/01-Basico"> Freecodecamp. </a> |  | 
 | 18 | Estudei sobre Orientação a Objetos. |  |
+| 19 | Estudei sobre DOM. |  |
