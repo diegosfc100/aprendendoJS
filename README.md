@@ -137,4 +137,4 @@
 | 15 | Resolvi alguns exercícios no <a href="https://github.com/diegosfc100/365daysofJS/tree/master/freecodecamp-javascript/01-Basico"> Freecodecamp. </a> |  | 
 | 16 | Revisei alguns conteúdos já estudados. |  |
 | 17 | Resolvi alguns exercícios no <a href="https://github.com/diegosfc100/365daysofJS/tree/master/freecodecamp-javascript/01-Basico"> Freecodecamp. </a> |  | 
-| 18 | Estudei sobre Funções Orientação a Objetos. |  |
+| 18 | Estudei sobre Orientação a Objetos. |  |
