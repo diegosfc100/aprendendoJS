@@ -10,13 +10,8 @@ let btn = document.querySelector('#botao');
 let lista = document.querySelector('#lista');
 
 
-let tarefas = [
-    'Comer',
-    'Dormir',
-    'Rezar',
-    'Estudar',
-    'Trabalhar'
-]
+let tarefas = JSON.parse(localStorage.getItem('tarefas')) || [];
+
 
 function renderizarTarefas(){
     // limpando a listagem de itens antes de renderizar a tela
@@ -66,6 +61,9 @@ btn.onclick = function(){
     // limpar msgs de erro(spans)
     removerSpans();
 
+    // Salva os novos dados no banco de dados
+    salvarDadosNoStorage();
+
     }else{
         removerSpans();
 
@@ -98,5 +96,13 @@ function deletarTarefa(tar){
 
     //renderiza novamente a tela
     renderizarTarefas();
+
+    // Salva os novos dados no banco de dados
+    salvarDadosNoStorage();
 }
 
+
+function salvarDadosNoStorage(){
+    // Todo navegador web possui esta capacidade
+    localStorage.setItem('tarefas', JSON.stringify(tarefas));
+}
