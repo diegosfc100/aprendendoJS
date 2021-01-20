@@ -99,3 +99,4 @@ function deletarTarefa(tar){
     //renderiza novamente a tela
     renderizarTarefas();
 }
+
