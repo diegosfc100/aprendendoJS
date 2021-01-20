@@ -9,9 +9,11 @@ let btn = document.querySelector('#botao');
 // 3. Referenciando a list
 let lista = document.querySelector('#lista');
 
+// card
+let card = document.querySelector('.card');
+
 
 let tarefas = JSON.parse(localStorage.getItem('tarefas')) || [];
-
 
 function renderizarTarefas(){
     // limpando a listagem de itens antes de renderizar a tela
@@ -22,7 +24,7 @@ function renderizarTarefas(){
         let itemLista = document.createElement('li');
 
         // adicionando classes no item da lista
-        itemLista.setAttribute('classe', 'list-group-item list-group-item-action');
+        itemLista.setAttribute('class', 'list-group-item list-group-item-action');
 
         // adicionando evento de clique no item da lista
         itemLista.onclick = function(){
@@ -67,9 +69,7 @@ btn.onclick = function(){
     }else{
         removerSpans();
 
-        let card = document.querySelector('.card');
-
-        let span = document.createElement('span');
+        let span = document.createElement('span');        
         span.setAttribute('class', 'alert alert-warning');
 
         let msg = document.createTextNode('Você precisa informar a tarefa!')
@@ -82,8 +82,6 @@ btn.onclick = function(){
 
 function removerSpans(){
     let spans = document.querySelectorAll('span');
-
-    let card = document.querySelector('.card');
 
     for(let i = 0; i < spans.length; i++){
         card.removeChild(spans[i]);
