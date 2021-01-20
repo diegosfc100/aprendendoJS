@@ -19,6 +19,9 @@ let tarefas = [
 ]
 
 function renderizarTarefas(){
+    // limpando a listagem de itens antes de renderizar a tela
+    lista.innerHTML = '';
+
     for(tarefa of tarefas){
         // criando o item da lista
         let itemLista = document.createElement('li');
@@ -40,3 +43,46 @@ function renderizarTarefas(){
 }
 
 renderizarTarefas();
+
+
+//1."escutando" o evendo de click no botão
+btn.onclick = function(){
+    //2.capturando o valor digitado no input
+    let novaTarefa = input.value;
+
+    if(novaTarefa !== ""){
+    //3.atualizando a nova tarefa na lista de tarefas
+    tarefas.push(novaTarefa);
+    //4.renderizando tarefas
+    renderizarTarefas();
+    // limpar o input
+    input.value = '';
+
+    // limpar msgs de erro(spans)
+    removerSpans();
+
+    }else{
+        removerSpans();
+                
+        let card = document.querySelector('.card');
+
+        let span = document.createElement('span');
+        span.setAttribute('class', 'alert alert-warning');
+
+        let msg = document.createTextNode('Você precisa informar a tarefa!')
+
+        span.appendChild(msg);
+
+        card.appendChild(span);
+    }
+}
+
+function removerSpans(){
+    let spans = document.querySelectorAll('span');
+
+    let card = document.querySelector('.card');
+
+    for(let i = 0; i < spans.length; i++){
+        card.removeChild(spans[i]);
+    }
+}
