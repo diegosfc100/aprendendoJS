@@ -18,15 +18,25 @@ let tarefas = [
     'Trabalhar'
 ]
 
+function renderizarTarefas(){
+    for(tarefa of tarefas){
+        // criando o item da lista
+        let itemLista = document.createElement('li');
+
+        //adicionando classes no item da lista
+        itemLista.setAttribute('classe', 'list-group-item list-group-item-action');
+
+        // criando um texto
+        let itemTexto = document.createTextNode(tarefa);
+
+        // adicionando o texto no item da lista
+        itemLista.appendChild(itemTexto);
+
+        // adicionando o item da lista na lista
+        lista.appendChild(itemLista);
 
 
+    }
+}
 
-/*
-     <li class="list-group-item list-group-item-action">Dormir</li>
-                    <li class="list-group-item list-group-item-action">Comer</li>
-                    <li class="list-group-item list-group-item-action">Rezar</li>
-                    <li class="list-group-item list-group-item-action">Trabalhar</li>
-                    <li class="list-group-item list-group-item-action">Estudar</li>
-                    <li class="list-group-item list-group-item-action">Transar</li>
-
-                    */
+renderizarTarefas();
