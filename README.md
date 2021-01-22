@@ -116,16 +116,17 @@
 - [ ] Import e Export.
 - [ ] Organizando o código e Webpack Dev Server.
 </details>
+<br>
+<hr>
+<br>
 
 
-
-<p align="center">
+<p align="left">
   <img src="https://cloud.githubusercontent.com/assets/3603793/18837293/9f2732da-83d9-11e6-8a7d-a421115f6b84.png" alt="Calendar Icon" width="100" />
 
-<details>
-  <summary> :paperclip: Janeiro </summary><br>
-| -------- | ----------------- |
-| 1 |<a href="https://github.com/diegosfc100/365daysofJS/blob/master/script.js"> Olá, Mundoooooooo =)</a> |  | 
+
+
+| 1 |<a href="https://github.com/diegosfc100/365daysofJS/blob/master/script.js"> Olá, Mundoooooooo =)</a> |  |
 | 2 | Resolvi  <a href="https://github.com/diegosfc100/365daysofJS/tree/master/freecodecamp-javascript/01-Basico"> exercícios do módulo 01-Básico Freecodecamp.</a> |  | 
 | 3 | Estudei sobre <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Values%2C_variables%2C_and_literals"> variáveis/tipos de dados</a>, <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Declara%C3%A7%C3%B5es#if...else_statement">condicionais </a> |  | 
 | 4 | Estudei sobre <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Lacos_e_iteracoes"> estruturas de repetição </a>, <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Operadores_Logicos"> operadores lógicos </a>, <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Operadores_de_compara%C3%A7%C3%A3o#Operadores_relacionais"> operadores relacionais </a>,<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators"> operadores aritméticos </a> e <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Functions"> introdução à funções.</a> |  | 
@@ -147,7 +148,7 @@
 | 20 | Criei um pequeno projeto <a href="https://github.com/diegosfc100/365daysofJS/tree/master/02.projects-vanilla-JS/001.lista-de-tarefas"> [Lista de Tarefas] </a> com Javascript puro.|  |
 | 21 | Resolvi alguns exercícios no <a href="https://github.com/diegosfc100/365daysofJS/tree/master/freecodecamp-javascript/01-Basico"> Freecodecamp. </a> |  |
 
-</details>
+
 
 <details>
   <summary> :paperclip: Fevereiro </summary><br>
