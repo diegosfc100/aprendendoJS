@@ -1,25 +1,29 @@
 <h1 align="center">
-   🚀 #365DaysOfJS
+   🚀 #VanillaJavascript 
 </h1>
 
 ## 🎯 Objetivos: 
-- Ficar Ninja em JS.
-- Estudar/Programar Javascript no mínimo 1 hora todos os dias durante os próximos 365 dias!
-- Concluir o Módulo JavaScript Algrithms and Data Strutures do Freecodecamp.
-- Revisar o conteúdo já estudado, acrescentando mais conteúdo/exercícios ou apenas revendo.
+- Ficar Ninja em JS puro antes de aprender Frameworks.
+<hr>
+
+
+## 🎯 Método de Estudo:
+- Aula;
+- Teoria;
+- Exercícios;
+- Revisão.
+
 
 <hr>
 
 
- ## :books: Recursos:
+## :books: Recursos:
 
 - [Curso - Programação em JavaScript do básico ao avançado.](https://www.udemy.com/course/curso-de-programacao-em-javascript-do-basico-ao-avancado/learn/lecture/16337750#overview)
-- [Documentação](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide)
-- [Livro - You Don't Know JS ](https://github.com/cezaraugusto/You-Dont-Know-JS)
+- [Freecodecamp - Javascript Algorithms and Data Structures.](https://www.freecodecamp.org/learn/)
 
 
-
-## JavaScript
+## JS:
 
 <details>
   <summary> :paperclip: Conceitos Básicos I </summary><br>
@@ -118,7 +122,8 @@
 <p align="center">
   <img src="https://cloud.githubusercontent.com/assets/3603793/18837293/9f2732da-83d9-11e6-8a7d-a421115f6b84.png" alt="Calendar Icon" width="100" />
 
-|Dia|Estudos|
+<details>
+  <summary> :paperclip: Janeiro </summary><br>
 | -------- | ----------------- |
 | 1 |<a href="https://github.com/diegosfc100/365daysofJS/blob/master/script.js"> Olá, Mundoooooooo =)</a> |  | 
 | 2 | Resolvi  <a href="https://github.com/diegosfc100/365daysofJS/tree/master/freecodecamp-javascript/01-Basico"> exercícios do módulo 01-Básico Freecodecamp.</a> |  | 
@@ -141,3 +146,40 @@
 | 19 | Estudei sobre DOM. |  |
 | 20 | Criei um pequeno projeto <a href="https://github.com/diegosfc100/365daysofJS/tree/master/02.projects-vanilla-JS/001.lista-de-tarefas"> [Lista de Tarefas] </a> com Javascript puro.|  |
 | 21 | Resolvi alguns exercícios no <a href="https://github.com/diegosfc100/365daysofJS/tree/master/freecodecamp-javascript/01-Basico"> Freecodecamp. </a> |  |
+
+</details>
+
+<details>
+  <summary> :paperclip: Fevereiro </summary><br>
+</details>
+<details>
+  <summary> :paperclip: Março </summary><br>
+</details>
+<details>
+  <summary> :paperclip: Abril </summary><br>
+</details>
+<details>
+  <summary> :paperclip: Maio </summary><br>
+</details>
+<details>
+  <summary> :paperclip: Junho </summary><br>
+</details>
+<details>
+  <summary> :paperclip: Julho </summary><br>
+</details>
+<details>
+  <summary> :paperclip: Agosto </summary><br>
+</details>
+<details>
+  <summary> :paperclip: Setembro </summary><br>
+</details>
+<details>
+  <summary> :paperclip: Outubro </summary><br>
+</details>
+<details>
+  <summary> :paperclip: Novembro </summary><br>
+</details>
+<details>
+  <summary> :paperclip: Dezembro </summary><br>
+</details>
+
