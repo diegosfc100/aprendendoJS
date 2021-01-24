@@ -31,3 +31,9 @@ Veja o exemplo ourName acima se tiver dúvidas.
 EXERCÍCIO RESOLVIDO ABAIXO: */ 
 
 var myName;
+
+var meuNome;
+
+var animal;
+
+var futebol;
