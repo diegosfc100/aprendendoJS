@@ -5,7 +5,8 @@ Se você fizer uma operação matemática em uma variável indefinida, seu resul
 que significa "Não é um número". Se você concatenar uma string com uma variável indefinida,
 obterá uma string literal de "undefined".
 
-Inicialize as três variáveis a, b e c com 5, 10 e "Eu sou o", respectivamente, para que não sejam indefinidas. 
+Inicialize as três variáveis a, b e c com 5, 10 e "Eu sou o", respectivamente, para que não
+sejam indefinidas. 
 
 EXERCÍCIO RESOLVIDO ABAIXO: */ 
 

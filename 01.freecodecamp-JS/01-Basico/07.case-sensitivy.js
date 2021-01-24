@@ -30,3 +30,12 @@ var titleCaseOver;
 studlyCapVar = 10;
 properCamelCase = "A String";
 titleCaseOver = 9000;
+
+//
+
+var nomeCompleto;
+var timeDoCoracao;
+
+
+nomeCompleto = "Diego Rodrigues de Oliveira"
+timeDoCoracao = "Santos Futebol Clubes"

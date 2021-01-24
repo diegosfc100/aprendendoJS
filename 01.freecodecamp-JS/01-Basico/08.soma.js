@@ -14,3 +14,8 @@ minhaVar = 5 + 10; // atribuído 15
 EXERCÍCIO RESOLVIDO ABAIXO: */ 
 
 var sum = 10 + 10;
+
+//
+
+var sum;
+sum = 10 + 90;
