@@ -10,3 +10,4 @@ var product = 2.0 * 0.0;
 EXERCÍCIO RESOLVIDO ABAIXO: */ 
 
 var product = 2.0 * 2.5;
+console.log(product);

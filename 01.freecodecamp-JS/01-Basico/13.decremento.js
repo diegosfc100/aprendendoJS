@@ -15,9 +15,14 @@ Altere o código para usar o operador -- em myVar:
 
 var myVar = 11;
 
-// Only change code below this line
-myVar = myVar - 1;
-
 EXERCÍCIO RESOLVIDO ABAIXO: */ 
 
+var myVar = myVar - 1;
 myVar--;
+
+//
+
+var decrementando = 100
+decrementando-- // 99
+
+console.log(decrementando)

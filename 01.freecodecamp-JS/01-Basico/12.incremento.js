@@ -24,7 +24,6 @@ myVar++;
 
 var idade = 31;
 
-
 console.log(idade++) // primeiro irá imprimir idade(31) e depois ira incrementar(32)
 console.log(idade++) // 32
 console.log(idade++) // 33
