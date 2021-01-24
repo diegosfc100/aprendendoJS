@@ -16,7 +16,17 @@ Agora, se myVar aparecer novamente no código, o programa o tratará como se fos
 
 Atribua o valor 7 à variável a.
 
-EXERCÍCIO RESOLVIDO ABAIXO: */ 
-
+EXERCÍCIO RESOLVIDO ABAIXO: */
 var a;
 a = 7;
+
+//
+
+var x;
+x = 77;
+
+var minhaCasa;
+minhaCasa = "Minha Vida"
+
+var time;
+time = "Santos Futebol Clube";
