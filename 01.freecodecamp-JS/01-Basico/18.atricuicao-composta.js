@@ -21,12 +21,28 @@ var b = 17;
 var c = 12;
 
 // Only change code below this line
-a = a + 12;
-b = 9 + b;
-c = c + 7;
+
 
 EXERCÍCIO RESOLVIDO ABAIXO: */ 
+
+var a = a + 12;
+var b = 9 + b;
+var c = c + 7;
 
 a += 12;
 b += 9 ;
 c += 7 ;
+
+//
+
+var idade = 30
+
+idade += 10;
+console.log(idade);
+
+// 
+
+var ano = 2021
+
+ano += 29;
+console.log(ano);

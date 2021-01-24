@@ -1,4 +1,4 @@
-/* Fugindo de citações literais em cordas
+/* Fugindo de citações literais em Strings
 
 Ao definir uma string, você deve começar e terminar com aspas simples ou duplas. 
 O que acontece quando você precisa de uma citação literal: "ou 'dentro de sua string?
@@ -21,3 +21,8 @@ I am a "double quoted" string inside "double quotes".
 EXERCÍCIO RESOLVIDO ABAIXO: */ 
 
 var myStr = "I am a \"double quoted\" string inside \"double quotes\"."
+
+console.log(myStr);
+
+//
+

@@ -24,3 +24,11 @@ Defina o restante igual ao restante de 11 dividido por 3 usando o operador de re
 EXERCÍCIO RESOLVIDO ABAIXO: */ 
 
 var remainder = 11 % 3;
+
+//
+
+var impar = 3 % 2; // se tem resto 1 é impar.
+console.log("resto", impar);
+
+var par = 10 % 2;
+console.log("resto", par); // se tem resto 0 é par.
