@@ -22,3 +22,11 @@ EXERCÍCIO RESOLVIDO ABAIXO: */
 
 var myStr = "This is the first sentence. ";
 myStr += "This is the second sentence."
+
+//
+
+var educacao = "Bom Dia, "
+educacao += "Boa Tarde, ";
+educacao += "Boa Noite. ";
+
+console.log(educacao);

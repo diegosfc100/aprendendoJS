@@ -36,4 +36,25 @@ Aqui está o texto com as sequências de escape escritas.
 EXERCÍCIO RESOLVIDO ABAIXO: */ 
 
 var myStr = "FirstLine\n\t\\SecondLine\nThirdLine";
-console.log(myStr)
+//console.log(myStr)
+
+
+//
+
+var teste = "DiegoRodriguesDeOliveira\"DGO\""
+//console.log(teste);
+var teste = "DiegoRodriguesDeOliveira\'DGO\'"
+//console.log(teste);
+var teste = "DiegoRodriguesDeOliveira\\DGO"
+//console.log(teste);
+var teste = "Diego\nRodrigues\nDe\nOliveira\nDGO" // pula linha.
+//console.log(teste);
+var teste = "DiegoRodrigues\rDeOliveiraDGO"
+//console.log(teste);
+var teste = "Diego\tRodrigues\tDe\tOliveira\tDGO" // tab
+//console.log(teste);
+var teste = "DiegoRodrigues\bDeOliveiraDGO"
+//console.log(teste);
+var teste = "Diego\fRodrigues\fDe\fOliveira\fDGO"
+console.log(teste);
+

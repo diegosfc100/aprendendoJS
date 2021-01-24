@@ -16,3 +16,13 @@ EXERCÍCIO RESOLVIDO ABAIXO: */
 
 var myName = "Diego"
 var myStr = "My name is " + myName + " and I am well!"
+console.log(myStr);
+
+//
+
+var nome = "Diego"
+var idade = 30;
+
+var nomeIdade = "Meu nome é " + nome + ", tenho " + idade + " anos."
+
+console.log(nomeIdade)

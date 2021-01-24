@@ -21,3 +21,4 @@ var ourStr = "Eu venho primeiro." + "Eu venho em segundo lugar.";
 EXERCÍCIO RESOLVIDO ABAIXO: */ 
 
 var myStr = "This is the start. " + "This is the end."
+console.log(myStr)

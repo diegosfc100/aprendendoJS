@@ -20,7 +20,7 @@ Lembre-se de que uma string tem o mesmo tipo de aspas no início e no final.
 Mas se você tiver a mesma citação em algum lugar no meio, a string irá parar mais cedo e gerar um erro. */
 
 goodStr = 'Jake asks Finn, "Hey, let\'s go on an adventure?"';
-badStr = 'Finn responds, "Let's go!"'; // Lança um erro
+// badStr = 'Finn responds, "Let's go!"'; // Lança um erro
 
 
 /*
