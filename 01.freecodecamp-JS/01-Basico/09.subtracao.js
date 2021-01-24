@@ -12,3 +12,13 @@ myVar = 12 - 6; // atribuído 6
 EXERCÍCIO RESOLVIDO ABAIXO: */ 
 
 var difference = 45 - 33;
+
+//
+
+var idade;
+idade = 31;
+
+var anoDeNascimento;
+anoDeNascimento = 2021 - idade;
+
+console.log(anoDeNascimento);

@@ -12,3 +12,7 @@ myVar = 13 * 13; // atribuído 169
 EXERCÍCIO RESOLVIDO ABAIXO: */ 
 
 var product = 8 * 10;
+
+//
+
+

@@ -15,9 +15,26 @@ Altere o código para usar o operador ++ em myVar:
 
 var myVar = 87;
 
-// Only change code below this line
-myVar = myVar + 1;
-
 EXERCÍCIO RESOLVIDO ABAIXO: */ 
 
+var myVar = myVar + 1;
 myVar++;
+
+//
+
+var idade = 31;
+
+
+console.log(idade++) // primeiro irá imprimir idade(31) e depois ira incrementar(32)
+console.log(idade++) // 32
+console.log(idade++) // 33
+console.log(idade) // 34
+
+//
+
+var ano = 2021;
+console.log(ano);
+
+ano++ // 2022
+console.log(ano);
+
