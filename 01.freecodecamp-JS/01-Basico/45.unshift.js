@@ -20,3 +20,15 @@ EXERCÍCIO RESOLVIDO ABAIXO: */
 var myArray = [["John", 23], ["dog", 3]];
 myArray.shift();
 myArray.unshift(["Paul", 35]);
+
+//
+
+var moveis = ["cadeira", "mesa", "sofa"]
+console.log(moveis);
+
+moveis.unshift("estante", "armario");
+console.log(moveis);
+
+moveis.unshift(["guarda-roupa"]);
+console.log(moveis);
+

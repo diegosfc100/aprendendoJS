@@ -24,4 +24,13 @@ function functionWithArgs(param1, param2){
     console.log(param1 + param2);
 }
 
-functionWithArgs(10, 20);
+functionWithArgs(300, 20);
+
+//
+
+function idade(anoAtual, anoDeNascimento){
+    return anoAtual - anoDeNascimento;
+}
+
+console.log(idade(2021, 1990));
+

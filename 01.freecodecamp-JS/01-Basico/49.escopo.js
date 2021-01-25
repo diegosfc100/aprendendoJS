@@ -16,6 +16,7 @@ EXERCÍCIO RESOLVIDO ABAIXO: */
 
 var myGlobal = 10;
 
+
 function fun1() {
     oopsGlobal = 5;
   }
@@ -31,3 +32,30 @@ function fun1() {
     console.log(output);
   }
 
+  fun2();
+
+
+  //
+
+  var idade = 15 
+  console.log("a var idade é uma variavel do tipo " + typeof(idade))
+
+
+  function numPrimo(){
+    num = 7;
+  }
+  console.log("num é uma variavel do tipo " + typeof(num))
+
+
+
+  function teste(){
+    var resultado = "";
+    if(typeof idade != "undefined"){
+      resultado += "a var idade é uma variavel do tipo " + typeof(idade)
+    } if(typeof num == "undefined"){
+      resultado += " num é uma variavel do tipo " + typeof(num)
+    }
+    console.log(resultado);
+  }
+
+  teste();
