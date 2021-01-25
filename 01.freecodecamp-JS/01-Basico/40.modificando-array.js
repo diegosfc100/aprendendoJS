@@ -1,4 +1,4 @@
-/* Modificar dados de matriz com índices
+/* Modificar dados de array com índices
 
 Ao contrário das strings, as entradas dos arrays são mutáveis e podem ser alteradas livremente.
 
@@ -13,3 +13,11 @@ EXERCÍCIO RESOLVIDO ABAIXO: */
 
 var myArray = [18,64,99];
 myArray[0] = 45
+
+//
+
+var santosfc = [["Libertadores", 3],["Mundial", 2]];
+
+santosfc[0][1] = 4
+
+console.log(santosfc[0]);

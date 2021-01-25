@@ -11,3 +11,7 @@ Modifique a nova matriz myArray para que contenha uma string e um número (nessa
 EXERCÍCIO RESOLVIDO ABAIXO: */ 
 
 var myArray = ["SEVEN", 7]
+
+//
+
+var listaDeCompra = ["Arroz", 10.99, "Feijão", 5.99, "Banana", 4.99]

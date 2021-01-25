@@ -9,7 +9,7 @@ Exemplo: */
 
 var array = [50,60,70];
 array[0]; // é igual a 50
-var data = matriz [1]; // é igual a 60 */
+var data = array [1]; // é igual a 60 */
 
 /* Nota:
 Não deve haver nenhum espaço entre o nome da matriz e os colchetes, como array [0].
@@ -22,3 +22,15 @@ EXERCÍCIO RESOLVIDO ABAIXO: */
 
 var myArray = [50,60,70];
 var myData = myArray[0];
+
+//
+
+var anos = [1990, 1969, 2012, 2000, 2001, 2012, 2020];
+
+console.log(anos[0]);//1990
+console.log(anos[1]);
+console.log(anos[2]);
+console.log(anos[3]);
+console.log(anos[4]);
+console.log(anos[5]);
+console.log(anos[6]);//2020
