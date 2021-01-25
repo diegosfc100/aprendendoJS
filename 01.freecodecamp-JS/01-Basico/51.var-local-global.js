@@ -1,6 +1,6 @@
 /* Escopo Global vs. Local em Funções.
 
-É possível ter variáveis locais e globais com o mesmo nome. Ao fazer isso, a variável local tem precedência
+É possível ter variáveis locais e globais com o mesmo nome. Ao fazer isso, a variável LOCAL tem precedência
 sobre a variável global.
 
 Neste exemplo: */
@@ -25,3 +25,14 @@ function myOutfit() {
 }
 
 myOutfit();
+
+//
+
+var nome = "Diego"; // var global
+
+function teste(){
+  var nome = "DIEGO"; // var local
+  return nome;
+}
+
+console.log(teste());

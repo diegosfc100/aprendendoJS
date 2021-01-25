@@ -18,3 +18,13 @@ EXERCÍCIO RESOLVIDO ABAIXO: */
 function timesFive(num1){
     return num1 * 5
 }
+
+//
+
+function idade(anoAtual, anoDeNascimento){
+    return anoAtual - anoDeNascimento
+}
+
+var minhaIdade = idade(2021,1990); // varialvel ira receber como valor uma função.
+
+console.log(minhaIdade);

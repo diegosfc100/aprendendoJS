@@ -17,10 +17,13 @@ EXERCÍCIO RESOLVIDO ABAIXO: */
 var myGlobal = 10;
 
 
-function fun1() {
+function fun1(){
     oopsGlobal = 5;
   }
+
   
+
+
   function fun2() {
     var output = "";
     if (typeof myGlobal != "undefined") {
