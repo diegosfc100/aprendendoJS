@@ -22,3 +22,12 @@ var lastName = "Lovelace";
 
 // Only change code below this line
 firstLetterOfLastName = lastName[0]; // Change this line
+
+// 
+
+var nome = "DIEGO Rodrigues"
+console.log(nome[0])
+console.log(nome[1])
+console.log(nome[2])
+console.log(nome[3])
+console.log(nome[4])

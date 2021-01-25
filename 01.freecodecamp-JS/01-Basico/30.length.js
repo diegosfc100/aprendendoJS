@@ -1,4 +1,4 @@
-/* Encontre o comprimento de uma corda
+/* Encontre o comprimento de uma string
 
 Você pode encontrar o comprimento de um valor de String escrevendo .length após a variável de string ou literal de string.*/
 
@@ -17,4 +17,13 @@ var lastName = "Lovelace";
 // Only change code below this line
 
 lastNameLength = lastName.length
+
+//
+
+var nomeCompleto = "DiegoRodriguesDeOliveira"
+var hello = "bomdiaboatardeboanoite"
+
+console.log(nomeCompleto.length)
+console.log(hello.length)
+
 

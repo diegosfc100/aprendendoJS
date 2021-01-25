@@ -1,4 +1,4 @@
-/* Compreender a imutabilidade da corda
+/* Compreender a imutabilidade da string
 
 Em JavaScript, os valores de String são imutáveis, o que significa que não podem ser alterados depois de criados.
 

@@ -20,3 +20,11 @@ var lastName = "Lovelace"
 
 var lastLetterOfLastName = lastName[lastName.length - 1]
 
+//
+
+var nome = "OGEID"
+console.log(nome[nome.length -1]); // ultima letra
+console.log(nome[nome.length -2]); // penultima letra
+console.log(nome[nome.length -3]);
+console.log(nome[nome.length -4]);
+console.log(nome[nome.length -5]);
