@@ -19,3 +19,12 @@ EXERCÍCIO RESOLVIDO ABAIXO: */
 
 var myArray = [["John", 23], ["cat", 2]];
 myArray.push(["dog", 3])
+
+
+//
+
+var familia = ["pai", "mae", "filho"];
+console.log(familia);
+
+familia.push("tio","tia", "sobrinho", "primo");
+console.log(familia);

@@ -28,6 +28,20 @@ EXERCÍCIO RESOLVIDO ABAIXO: */
 var myArray = [[1,2,3], [4,5,6], [7,8,9], [[10,11,12], 13, 14]];
 
 var myData = myArray[2][1];
+//console.log(myData)
+
+ //
+
+ var loteria =
+  [[5, 10, 9, 6, 8],
+   [10, 50, 8], 
+   [55, 7, 0.2, 98],
+   [50[5, 7, 9]]];
+
+ console.log(loteria[0])
+ console.log(loteria[0][3])
+ console.log(loteria[2][2])
+ 
 
 
 

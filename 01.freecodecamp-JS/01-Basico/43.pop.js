@@ -19,3 +19,19 @@ EXERCÍCIO RESOLVIDO ABAIXO: */
 var myArray = [["John", 23], ["cat", 2]];
 
 var removedFromMyArray = myArray.pop();
+
+
+//
+
+var feira = ["banana", "maça", "uva", "abacaxi"];
+console.log(feira);
+
+feira.pop();
+console.log(feira)
+
+feira.pop();
+console.log(feira)
+
+feira.pop();
+console.log(feira)
+

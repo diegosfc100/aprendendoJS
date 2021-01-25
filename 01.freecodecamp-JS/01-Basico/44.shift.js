@@ -17,3 +17,23 @@ EXERCÍCIO RESOLVIDO ABAIXO: */
 var myArray = [["John", 23], ["dog", 3]];
 
 var removedFromMyArray = myArray.shift()
+
+//
+
+var jogadores = ["Pelé", "Romario", "R10", "Zidane", "Messi", "CR7"];
+console.log(jogadores);
+
+jogadores.shift();
+console.log(jogadores);
+
+jogadores.shift();
+console.log(jogadores);
+
+jogadores.shift();
+console.log(jogadores);
+
+jogadores.shift();
+console.log(jogadores);
+
+jogadores.shift();
+console.log(jogadores);
