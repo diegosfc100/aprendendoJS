@@ -6,7 +6,7 @@ podemos pegar o valor de retorno de uma função e atribuí-lo a uma variável.
 
 Suponha que tenhamos predefinido uma função de soma que adiciona dois números juntos, então: */
 
-ourSum = sum(5, 12);
+//ourSum = sum(5, 12);
 
 /* irá chamar a função sum, que retorna um valor de 17 e o atribui à nossa variável sum.
 
@@ -20,3 +20,4 @@ function processArg(num) {
 }
 
 processed = processArg(7);
+console.log(processed);
