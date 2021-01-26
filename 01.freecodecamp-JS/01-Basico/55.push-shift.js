@@ -21,3 +21,17 @@ function nextInLine(arr, item) {
   console.log("Before: " + JSON.stringify(testArr));
   console.log(nextInLine(testArr, 6));
   console.log("After: " + JSON.stringify(testArr));
+
+  //
+
+
+  function feira(arr, item){
+      arr.push(item); // adiciona elementos no final do array
+      return arr.shift(); // shift remove primeiro elemento de um array.
+  }
+
+  var frutas = ["Abacaxi", "Banana", "Cajú"]
+
+  console.log("Antes: " +JSON.stringify(frutas))
+  console.log(feira(frutas,"Damasco"));
+  console.log("Depois: " + JSON.stringify(frutas));

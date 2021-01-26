@@ -35,3 +35,13 @@ function testEqual(val) {
   }
   
   testEqual(10);
+
+  //
+
+  function maiordeIdade(idade){
+    if(idade >= 18){
+      return "Maior de Idade";
+    } return "Menor de Idade"
+  }
+
+  console.log(maiordeIdade(18));
