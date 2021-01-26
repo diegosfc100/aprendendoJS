@@ -51,4 +51,4 @@ function sequentialSizes(val) {
   return answer;
 }
 
-sequentialSizes(1);
+console.log(sequentialSizes(1));
