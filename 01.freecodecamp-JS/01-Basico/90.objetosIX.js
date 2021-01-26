@@ -37,3 +37,22 @@ var myStorage = {
   };
   
   var gloveBoxContents = myStorage.car.inside["glove box"];
+
+  //
+
+
+  var casa = {
+    geladeira: {
+      freezer: {
+        pote1: "feijão.",
+        pote2: "sorvete."
+       },
+      jarra: {
+        suco: "manga."
+      }
+    }
+  };
+  
+  var touch = casa.geladeira.freezer["pote2"]
+  console.log(touch);
+ 
