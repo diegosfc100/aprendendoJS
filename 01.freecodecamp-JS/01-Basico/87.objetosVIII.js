@@ -30,8 +30,6 @@ alpha[value]; // "Y"
 function phoneticLookup(val) {
     var result = "";
   
-    // Only change code below this line
-
     var lookup = {
         "alpha":"Adams",
         "bravo":"Boston",
@@ -42,7 +40,7 @@ function phoneticLookup(val) {
     }
     result = lookup[val];
     
-   /* switch(val) {
+    switch(val) {
       case "alpha":
         result = "Adams";
         break;
@@ -60,7 +58,7 @@ function phoneticLookup(val) {
         break;
       case "foxtrot":
         result = "Frank";
-    }*/
+    }
   
    return result;
   }

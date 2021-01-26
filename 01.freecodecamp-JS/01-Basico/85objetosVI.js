@@ -4,11 +4,11 @@ Você pode adicionar novas propriedades a objetos JavaScript existentes da mesma
 
 Veja como adicionaríamos uma propriedade "bark" ao nosso cachorro: */
 
-ourDog.bark = "bow-wow";
+ /*ourDog.bark = "bow-wow";
 
 // ou
 
-ourDog ["bark"] = "arco-uau";
+ourDog["bark"] = "arco-uau";
 
 // Agora, quando avaliarmos ourDog.bark, obteremos seu latido, "bow-wow".
 
@@ -23,7 +23,7 @@ ourDog.bark = "bow-wow";
 
 // Adicione uma propriedade "bark" a myDog e defina-a como um som de cachorro, como "woof". 
 
-// Setup
+// Setup */
 var myDog = {
   "name": "Happy Coder",
   "legs": 4,
@@ -32,3 +32,17 @@ var myDog = {
 };
 
 myDog.bark = "woof";
+console.log(myDog)
+
+
+//
+
+var players = {
+  fred: "Fluminense",
+  marinho: "Santos",
+  jo: "sccp",
+  danielalves: "São Paulo"
+}
+
+players.soteldo = "SANTOS"
+console.log(players)

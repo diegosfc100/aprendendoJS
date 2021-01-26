@@ -18,11 +18,30 @@ uma propriedade específica (checkProp). Se a propriedade for encontrada, retorn
 Caso contrário, retorne "Not Found".*/ 
 
 function checkObj(obj, checkProp) {
-   if(obj.hasOwnProperty(checkProp)){
-       return obj[checkProp];
+   if(obj.hasOwnProperty(checkProp)){ // = verificar nesse objeto se existe tal propriedade.
+       return obj[checkProp]; // se existir, retorne ele pra mim.
      }else{
      }  return "Not Found"
    }
-  
 
+   //
+
+   var sorteio = {
+     maria: 50,
+     diego: 17,
+     andreia: 10,
+     jo: 77,
+     drin: 14
+   }
+  
+   function checkObjt(objt, checkPr){
+     if(objt.hasOwnProperty(checkPr)){
+       return objt[checkPr];
+     }else{
+       return "Objeto inexistente."
+     }
+   }
+
+  console.log(checkObjt(sorteio,"drin"));
+  console.log(checkObjt(sorteio,"ademir"));
 
