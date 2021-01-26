@@ -39,9 +39,9 @@ function testEqual(val) {
   //
 
   function maiordeIdade(idade){
-    if(idade >= 18){
-      return "Maior de Idade";
-    } return "Menor de Idade"
+    if(idade == 0){
+      return "Recém nascido";
+    }
   }
 
-  console.log(maiordeIdade(18));
+  console.log(maiordeIdade(0));

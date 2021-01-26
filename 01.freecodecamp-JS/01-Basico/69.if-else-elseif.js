@@ -25,3 +25,17 @@ function testElseIf(val) {
     }
 
 testElseIf(7);
+
+//
+
+function tamanho(altura){
+  if(altura < 1.70){
+    return "você é nanico."
+  } else if(altura > 1.70 && altura < 1.85){
+    return "você é alto."
+  }else{
+    return "você é gigante."
+  }
+}
+
+console.log(tamanho(1.71));

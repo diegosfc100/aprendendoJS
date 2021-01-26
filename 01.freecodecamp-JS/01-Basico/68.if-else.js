@@ -27,4 +27,20 @@ function testElse(val) {
   return result;
 }
 
-testElse(4);
+console.log(testElse(4));
+
+//
+
+
+function aposento(idade){
+  resposta = ""
+
+  if(idade >= 65){
+    resposta = "Já pode se aposentar."
+  }else{
+    resposta = "Aguarde mais um pouco."  
+  }
+  return resposta;
+}
+
+console.log(aposento(64));
