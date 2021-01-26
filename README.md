@@ -151,6 +151,7 @@
 | *20* | *Criei um pequeno projeto <a href="https://github.com/diegosfc100/365daysofJS/tree/master/02.projects-vanilla-JS/001.lista-de-tarefas"> [Lista de Tarefas] </a> com Javascript puro.*|  |
 | *21* | *Resolvi alguns exercícios no <a href="https://github.com/diegosfc100/365daysofJS/tree/master/freecodecamp-javascript/01-Basico"> Freecodecamp.* </a> |  |
 | *24* | *Renomeei alguns arquivos do freecodecamp para melhor visualização e acrescentei + alguns exemplos.* |  |
+| *25* | *Renomeei alguns arquivos do freecodecamp para melhor visualização e acrescentei + alguns exemplos;* |  |
 </details>
 <hr>
 
