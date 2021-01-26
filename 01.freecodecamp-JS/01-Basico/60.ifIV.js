@@ -29,3 +29,15 @@ function compareEquality(a, b) {
   }
   
   compareEquality(10, "10");
+
+
+  //
+
+  function compare(x, y){
+    if (x === y){
+      return "Igual.";
+    }
+     return "Diferente."
+  }
+
+console.log(compare(500,'500'));

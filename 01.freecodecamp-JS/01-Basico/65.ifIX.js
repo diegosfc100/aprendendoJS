@@ -28,4 +28,4 @@ function testLessOrEqual(val) {
     return "More Than 24";
   }
   
-  testLessOrEqual(10);
+  console.log(testLessOrEqual(10));
