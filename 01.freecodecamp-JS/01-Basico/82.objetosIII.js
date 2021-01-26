@@ -28,9 +28,21 @@ EXERCÍCIO RESOLVIDO ABAIXO: */
 var testObj = {
     "an entree": "hamburger",
     "my side": "veggies",
-    "the drink": "water"
+    thedrink: "water"
   };
   
   
   var entreeValue = testObj["an entree"];   
-  var drinkValue = testObj["the drink"];   
+  var drinkValue = testObj["thedrink"];   
+
+  //
+
+  var park = {
+    ford: "Fusion",
+    fiat: "Uno",
+    gm: "Corsa",
+    citroen: "C3"
+  }
+
+  var park2 = park["fiat"];
+  console.log(park2)

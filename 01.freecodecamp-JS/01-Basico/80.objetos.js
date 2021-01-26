@@ -41,3 +41,13 @@ var myDog = {
     tails: 1,
     friends: ["Pluto", "Pantera", "Zulu"]
 }
+
+
+var teste = {
+    nome: "Fulano",
+    idade: 30,
+    altura: 1.80,
+    hetero: true,
+    salario: undefined,
+    filhos: ["joao", "ana", "pedro"]
+}

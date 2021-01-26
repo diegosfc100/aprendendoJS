@@ -29,3 +29,16 @@ var testObj = {
   
   var hatValue = testObj.hat;      // Change this line
   var shirtValue = testObj.shirt;    // Change this line
+
+  //
+
+
+  var caixaP = {
+      brinquedo: "carrinho",
+      roupa: "camisa",
+      calcados: "tênis",
+      acessorios: "relógio"
+  }
+
+var caixaG = caixaP.roupa;
+console.log(caixaG);

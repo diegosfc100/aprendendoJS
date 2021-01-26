@@ -6,7 +6,7 @@ da mesma forma que atualizaria qualquer outra variável. Você pode usar a nota�
 Por exemplo, vamos dar uma olhada em nosso cachorro: */ 
 
 var ourDog = {
-    "name": "Camper",
+    "name": "Marley",
     "legs": 4,
     "tails": 1,
     "friends": ["everything!"]
@@ -30,4 +30,19 @@ var myDog = {
   
   myDog.name = "Happy Coder"
   console.log(myDog.name)
-  // Only change code below this line
+
+
+  //
+
+var fullstack = {
+  frontend: "javascipt",
+  backend: "nodejs",
+  bandodedados: "MongoDB",
+  framework: "React"
+}
+console.log("Antes:",fullstack)
+
+fullstack.framework = "Bootstrap"
+console.log("Depois:",fullstack)
+
+

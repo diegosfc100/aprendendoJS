@@ -6,10 +6,14 @@ Isso pode ser muito útil para iterar pelas propriedades de um objeto ou ao aces
 Aqui está um exemplo de uso de uma variável para acessar uma propriedade: */
 
 var dogs = {
-    Fido: "Mutt",  Hunter: "Doberman",  Snoopie: "Beagle"
+    Fido: "Mutt",
+    Hunter: "Doberman",
+    Snoopie: "Beagle"
   };
+
   var myDog = "Hunter";
   var myBreed = dogs[myDog];
+  console.log(myDog)
   console.log(myBreed); // "Doberman"
   
 
@@ -19,6 +23,7 @@ do programa, da seguinte maneira: */
 var someObj = {
     propName: "John"
   };
+
   function propPrefix(str) {
     var s = "prop";
     return s + str;
@@ -41,3 +46,22 @@ var testObj = {
   
   var playerNumber = 16;       
   var player = testObj[playerNumber];   
+  console.log(player)
+
+
+  //
+  
+
+  var profissao = {
+    joaoPaulo: "arquiteto",
+    joaoPedro: "traficante",
+    joaoDias: "pedreiro"
+  };
+
+  function profPrefix(sobreNome){
+      var nome = "joao";
+      return nome + sobreNome;
+  }
+
+  var resultado = profPrefix("Dias"); // a var irá ter como valor o retorno da função.
+  console.log(profissao[resultado]);
