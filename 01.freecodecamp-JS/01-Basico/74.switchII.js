@@ -38,7 +38,7 @@ function switchOfStuff(val) {
             case "c":
                 answer = "cat";
                 break;
-              default: 
+              default: // default é uma instrução padrão, parecida com else.
                 answer = "stuff"  
         }   
     return answer;

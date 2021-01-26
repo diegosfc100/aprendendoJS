@@ -48,3 +48,25 @@ function caseInSwitch(val) {
   return answer;
 }
 console.log(caseInSwitch(2));
+
+
+//
+
+function nivelExperiencia(anosDeExp){
+    var resposta = ""
+
+    switch(anosDeExp){
+      case 1:
+          resposta = "Junior"
+          break;
+      case 3:
+          resposta = "Pleno"
+          break;
+      case 7:
+          resposta = "Senior"
+          break;
+    }
+    return resposta;
+}
+
+console.log(nivelExperiencia(7));
