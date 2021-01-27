@@ -152,6 +152,7 @@
 | *21* | *Resolvi alguns exercícios no <a href="https://github.com/diegosfc100/365daysofJS/tree/master/freecodecamp-javascript/01-Basico"> Freecodecamp.* </a> |  |
 | *24* | *Renomeei alguns arquivos do freecodecamp para melhor visualização e acrescentei + alguns exemplos.* |  |
 | *25* | *Renomeei alguns arquivos do freecodecamp para melhor visualização e acrescentei + alguns exemplos;* |  |
+| *26* | *Renomeei alguns arquivos do freecodecamp para melhor visualização e acrescentei + alguns exemplos;* |  |
 </details>
 <hr>
 
