@@ -1,6 +1,35 @@
 /* Pedir para o usuário digitar dois números e mostrar uma msg informando
 se foi aprovado ou não. A nota de corte é 5. */
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// O EXERCÍCIO RESOLVIDO ESTÁ LOGO ABAIXO, RESOLVA PRIMEIRO E DEPOIS COMPARE. //
+
+
 var n1 = parseFloat(prompt("Digite sua primeira nota: "))
 var n2 = parseFloat(prompt("Digite sua segunda nota: "))
 
