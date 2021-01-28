@@ -15,7 +15,20 @@
 //mostrar a soma concatenando com o texto "a soma é: ..."
             
 
+
+
+
+
+
+
+
+
+
+
+
+
 // O EXERCÍCIO RESOLVIDO ESTÁ LOGO ABAIXO, RESOLVA PRIMEIRO E DEPOIS COMPARE. //
+
 var number = prompt("Digite um número:")                 
 number = parseInt(number);  
 
