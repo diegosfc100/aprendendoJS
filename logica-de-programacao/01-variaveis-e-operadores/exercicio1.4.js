@@ -12,6 +12,24 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// O EXERCÍCIO RESOLVIDO ESTÁ LOGO ABAIXO, RESOLVA PRIMEIRO E DEPOIS COMPARE. //
+
+
 var player1 = parseInt(prompt("Digite um número: "));
 
 var player2 = parseInt(prompt("Digite um número: "));
