@@ -19,10 +19,19 @@ var player2 = parseInt(prompt("Digite um número: "));
 if(player1 === player2){
     alert("Empate")
 }else{
-    var sorteio = Math.random() * 2;
-    if(sorteio == 0 && player1 < player2){
-        alert("Parabéns player1, você é o vencedor!")
-    }elseif(sorteio == 1 && player1 > player2) {
-        alert("Parabéns player2, você é o vencedor!")
+    var sorteio = parseInt(Math.random() * 2);
+
+    if(sorteio == 0 ){
+        if(player1 < player2){
+            alert("Parabéns player1, você é o vencedor!")
+        }else{ 
+            alert("Parabéns player2, você é o vencedor!")
+        }
+    }else{
+        if(player1 > player2){
+            alert("Parabéns player1, você é o vencedor!")
+        }else{
+            alert("Parabéns player2, você é o vencedor!")
+        }
     }
 }
