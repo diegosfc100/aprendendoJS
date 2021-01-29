@@ -95,26 +95,13 @@
 </details>
 
 <details>
-<summary>:paperclip: JavaScript Assíncrono</summary><br>
+<summary>:paperclip: ES6 </summary><br>
 
-- [ ] Programação Assíncrona vs Síncrona.
-- [ ] Realizando requisições AJAX.
-- [ ] Promises.
-- [ ] Axios.
-</details>
-
-<details>
-<summary>:paperclip: ES6+ </summary><br>
-
-- [ ] Operadores Rest e Spread.
-- [ ] Conjuntos com Set.
-- [ ] For or.
-- [ ] Object Short Sintax.
-- [ ] Async e Await.
-- [ ] Babel.
-- [ ] Webpack Server.
-- [ ] Import e Export.
-- [ ] Organizando o código e Webpack Dev Server.
+- [x] Operadores Rest e Spread.
+- [x] Conjuntos com Set.
+- [x] For or.
+- [x] Object Short Sintax.
+- [x] Async e Await.
 </details>
 <br>
 <hr>
