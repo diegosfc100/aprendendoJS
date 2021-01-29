@@ -154,6 +154,8 @@
 | *25* | *Renomeei alguns arquivos do freecodecamp para melhor visualização e acrescentei + alguns exemplos;* |  |
 | *26* | *Renomeei alguns arquivos do freecodecamp para melhor visualização e acrescentei + alguns exemplos;* |  |
 | *27* | *Estudei sobre <a href="https://github.com/diegosfc100/aprendendoJS/tree/master/es6%2B"> ES6+(async e await; conjuntos com set; for or; object short syntax e rest spread.)</a> e subi um <a href="https://github.com/diegosfc100/aprendendoJS/tree/master/02.projects-vanilla-JS"> projeto feito com vanilla js.</a>* |  |
+| *29* | *Resolvi alguns exercícios no <a href="https://github.com/diegosfc100/365daysofJS/tree/master/freecodecamp-javascript/01-Basico"> Freecodecamp. </a>* |  | 
+
 </details>
 <hr>
 
