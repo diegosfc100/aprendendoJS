@@ -46,3 +46,33 @@ NaN // Not a number, quando deveria ser um numero, mas nao e
 // ===  igual a e do mesmo tipo
 // !=  diferente de...
 // !==  diferente, mas do mesmo tipo
+
+
+//
+
+
+// FUNÇÕES()
+	// Funcoes sao blocos de codigo
+    function soma(){
+        x = x + 1;
+    };
+
+    soma() //invocando a funcao, pode ser invocada mais de uma vez
+
+    //
+    function hello(){
+        var mundo = 'mundo'; //variaveis criadas dentro de uma funcao nao podem ser acessadas de fora
+    };
+    
+    //
+    function cinco(){
+        return 5;
+    };
+    var y = 4;
+    y + cinco() // 9
+
+
+    // Parametros de uma funcao sao valores que podem ser passados a uma funcao
+    function soma(x,y){ // x e y são os parâmetros
+        return x+y;
+    };
