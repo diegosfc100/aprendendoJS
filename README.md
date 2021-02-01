@@ -20,7 +20,8 @@
 ## :books: Recursos:
 
 - [Curso - Programação em JavaScript do básico ao avançado.](https://www.udemy.com/course/curso-de-programacao-em-javascript-do-basico-ao-avancado/learn/lecture/16337750#overview)
-- [Freecodecamp - Javascript Algorithms and Data Structures.](https://www.freecodecamp.org/learn/)
+- [Freecodecamp - JavaScript Algorithms and Data Structures.](https://www.freecodecamp.org/learn/)
+- [Curso - JavaScript Ninja ](https://www.udemy.com/course/curso-javascript-ninja/)
 
 
 ## JS:
