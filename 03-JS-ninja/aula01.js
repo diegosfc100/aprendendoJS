@@ -1,4 +1,4 @@
-// Alguns tipos de valores
+// Alguns TIPOS DE VALORES:
 
 null // Nenhum valor (um valor nulo)
 undefined // Ausencia de valor (nao existe)
@@ -28,3 +28,21 @@ NaN // Not a number, quando deveria ser um numero, mas nao e
     numeros[2] // 3 c
     numeros[3] // 4 d
     numeros[4] // 5 e
+
+//
+
+
+// OPERADORES E COMPARADORES:
+
+// var++  soma + 1, incremento
+// var--  diminui -1, decremento
+
+// +=, -=, *=, /=
+//(var = var + 20) == (var += 20)
+//(var = var * 20) == (var *= 20)
+
+// =  atribui o valor a...
+// ==  igual a...
+// ===  igual a e do mesmo tipo
+// !=  diferente de...
+// !==  diferente, mas do mesmo tipo
