@@ -40,3 +40,22 @@
         "_" , "$" , "letras de 'a' a 'z'" , "letras de 'A' a 'Z'"
     // Podem conter
         "_" , "$" , "letras de 'a' a 'z'" , "letras de 'A' a 'Z'" , "digitos de 0 a 9"
+
+
+
+// CONDICIONAIS
+    // If
+    /* if(se isso for verdadeiro){
+        Faça isso
+    } */
+    
+// Else
+    /*else{
+        Se o if não acontecer, faça isso..
+    } */
+
+// Else If
+    /*else if (próxima condição) {
+        É a próxima condição se o if for falso antes de acontecer o else. Pode ser usado quantas vezes quiser. 
+    } */
+
