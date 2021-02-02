@@ -22,7 +22,7 @@
 - [Curso - Programação em JavaScript do básico ao avançado.](https://www.udemy.com/course/curso-de-programacao-em-javascript-do-basico-ao-avancado/learn/lecture/16337750#overview)
 - [Freecodecamp - JavaScript Algorithms and Data Structures.](https://www.freecodecamp.org/learn/)
 - [Curso - JavaScript Ninja ](https://www.udemy.com/course/curso-javascript-ninja/)
-
+- [Desafios - Edabit.com](https://edabit.com/user/XS4H26eMPj4Xos3nN)
 
 ## JS:
 
@@ -149,8 +149,14 @@
 
 
 <details>
-  <summary> :paperclip: Fevereiro </summary><br>
+  <summary> :paperclip: Fevereiro </summary><br>  
+
+|*Dia*|*Estudos*|
+| -------- | ----------------- |
+| *01* |*Dei início ao curso <a href="https://github.com/diegosfc100/aprendendoJS/tree/master/03-JS-ninja">Javascript Ninja e finalizei dois desafios</a>; defini o Edabit como principal recurso para realização de exercícios e resolvi alguns; finalizei o <a href="https://github.com/diegosfc100/aprendendoJS/tree/master/01.freecodecamp-JS/01-Basico"> módulo básico do freecodecamp </a> e criei um <a href="https://github.com/diegosfc100/aprendendoJS/tree/master/02.projects-vanilla-JS/003-for-wave-animation"> projeto de formulário básico </a>.</a>* |  |
+
 </details>
+<hr>
 <details>
   <summary> :paperclip: Março </summary><br>
 </details>
