@@ -37,3 +37,13 @@
    // condição : false;
    1 === 2 ? true : false; // false
    var sexo = pessoa.sexo === 'Feminino' ? 'a': 'o';
+
+   // Escopos de variáveis
+    // Global
+        // Variáveis declaradas fora, podendo acessá-las em ambientes locais
+        // Não utilizando a palavra chave "var" a variável será considerada Global mesmo sendo declarada localmente 
+    
+    // Local
+        // Variáveis declaradas dentro, só estando disponível localmente
+        // Variáveis locais são melhores que as globais pois ocupam menos memória.
+        // Parametros de função são variáveis Locais
