@@ -155,6 +155,7 @@
 | -------- | ----------------- |
 | *01* |*Dei início ao curso <a href="https://github.com/diegosfc100/aprendendoJS/tree/master/03-JS-ninja">Javascript Ninja e finalizei dois desafios</a>; defini o Edabit como principal recurso para realização de exercícios e resolvi alguns; finalizei o <a href="https://github.com/diegosfc100/aprendendoJS/tree/master/01.freecodecamp-JS/01-Basico"> módulo básico do freecodecamp </a> e criei um <a href="https://github.com/diegosfc100/aprendendoJS/tree/master/02.projects-vanilla-JS/003-for-wave-animation"> projeto de formulário básico </a>.</a>* |  |
 | *02* |*Estudei sobre <a href="https://github.com/diegosfc100/aprendendoJS/blob/master/03-JS-ninja/aula03.js"> objetos, métodos de objetos e funções anonimas</a>; resolvi o <a hef="https://github.com/diegosfc100/aprendendoJS/blob/master/03-JS-ninja/challenge-03.js"> desafio 03 do Curso JsNinja </a>, criei uma <a href="https://github.com/diegosfc100/Controle-Financeiro"> aplicação de controle financeiro com html, css e js vanilla</a>* |  |
+| *03* |*Estudei sobre falsy e truthy; condicional ternário e escopo de váriaveis, resolvi o desafio 04 do Curso JsNinja e também alguns exercícios do módulo ES6 do freecodecamp.* |  |
 
 </details>
 <hr>
