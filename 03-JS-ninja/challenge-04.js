@@ -82,14 +82,14 @@ carro.obterMarca = function() {
 /*
 Crie um método chamado `obterMarcaModelo`, que retorne:
 "Esse carro é um [MARCA] [MODELO]"
-Para retornar os valores de marca e modelo, utilize os métodos criados.
+Para retornar os valores de marca e modelo, utilize os métodos criados. !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 */
 carro.obterMarcaModelo = function() {
-    return "Esse carro é um " + carro.marca + " " + carro.modelo
+    return "Esse carro é um " + carro.obterMarca() + " " + carro.obterModelo()
 }
 
 /*
-Crie um método que irá adicionar pessoas no carro. Esse método terá as
+Crie um método que irá adicionar pessoas no carro. Esse método terá as !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 seguintes características:
 - Ele deverá receber por parâmetro o número de pessoas que entrarão no carro. Esse
 número não precisa encher o carro, você poderá acrescentar as pessoas aos
@@ -105,59 +105,44 @@ mostrar quantos assentos ainda podem ser ocupados, com a frase:
 citado acima, no lugar de "pessoas".
 */
 carro.addPessoas = function (qtsPessoas) {
-    carro.quantidadeDePessoas += qtsPessoas;
-    var lugarVago = 5 - carro.quantidadeDePessoas;
+   var totalPessoas =  carro.quantidadeDePessoas + qtsPessoas;
+   if(carro.quantidadeDePessoas === carro.assentos && totalPessoas >= carro.assentos){
+        return 'O carro já está lotado'
+    } 
 
-    if(lugarVago == 1){
-        " pessoas!" == " pessoa!"
+    if(totalPessoas > carro.assentos){
+        var qtsPessoasCabem = carro.assentos - carro.quantidadeDePessoas;
+        var pluralOuSing = qtsPessoasCabem === 1 ? ' pessoa' : ' pessoas';
+        return 'Só cabem mais ' + qtsPessoasCabem + pluralOuSing + '!';
     }
-
-    if(carro.quantidadeDePessoas >= carro.assentos){
-        return "O carro já está lotado!"
-    }else if(carro.assentos > carro.quantidadeDePessoas && qtsPessoas > carro.assentos){
-        return " Só cabem mais" + lugarVago + " pessoas!"
-    }
-
-    return "Já temos " + carro.quantidadeDePessoas + " pessoas no carro!";    
-
+        carro.quantidadeDePessoas += qtsPessoas;
+        return 'Já temos ' + carro.quantidadeDePessoas + ' pessoas no carro.'
 }
 
 /*
 Agora vamos verificar algumas informações do carro. Para as respostas abaixo,
 utilize sempre o formato de invocação do método (ou chamada da propriedade),
 adicionando comentários _inline_ ao lado com o valor retornado, se o método
-retornar algum valor.
+retornar algum valor. */
 
-Qual a cor atual do carro?
-*/
-console.log(carro.cor); //prata
+//Qual a cor atual do carro?
+
 
 // Mude a cor do carro para vermelho.
-carro.mudarCor("vermelho");
 
 // E agora, qual a cor do carro?
-console.log(carro.obterCor()); 
-
 
 // Mude a cor do carro para verde musgo.
-carro.mudarCor("verde musgo");
 
 // E agora, qual a cor do carro?
-console.log(carro.obterCor()); //verde musgo
-
 
 // Qual a marca e modelo do carro?
-console.log(carro.obterMarcaModelo()) // esse carro é um fiat uno.
 
 // Adicione 2 pessoas no carro.
-carro.addPessoas(2);
 
 // Adicione mais 4 pessoas no carro.
-carro.addPessoas(4);
 
 // Faça o carro encher.
-
-console.log(carro.addPessoas())
 
 // Tire 4 pessoas do carro.
 
