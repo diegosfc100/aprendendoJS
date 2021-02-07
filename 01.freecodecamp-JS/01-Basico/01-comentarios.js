@@ -23,7 +23,6 @@ código - tanto para os outros quanto para o seu futuro eu.
 
 Tente criar um de cada tipo de comentário. 
 
-EXERCÍCIO RESOLVIDO ABAIXO: */ 
 
 // comentário de uma linha.
 
