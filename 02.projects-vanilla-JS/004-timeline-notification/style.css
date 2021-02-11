@@ -1,0 +1,27 @@
+/* global */
+html,
+html::before,
+html::after {
+	background-color:#000839;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+:root {
+	--color-white:#b2ebf2;
+	--color-pink: #ed145b;
+	--color-blue: #000839;
+}
+
+/* background */
+.background {
+	width: 400px;
+	height: 400px;
+    position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	overflow: hidden;
+}
