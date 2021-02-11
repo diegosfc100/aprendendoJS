@@ -25,3 +25,130 @@ html::after {
 	transform: translate(-50%, -50%);
 	overflow: hidden;
 }
+
+/* NOTIFICATIONS PAGE */
+#n-page {
+	width: 320px;
+	height: 320px;
+	border-radius: 4px;
+	background-color: var(--color-white);
+	box-shadow: 1px 1px 16px 0 hsla(0, 92%, 46%, 0.5);
+	position: relative;
+	top: 40px;
+	left: 40px;
+	transition: transform 0.33s ease-in;
+	overflow: hidden;
+	z-index: 1;
+}
+
+#n-page.shift {
+	transform: translateX(30%);
+}
+
+/* header */
+.header {
+	width: 100%;
+	height: 64px;
+	background-color:var(--color-pink);
+	position: absolute;
+}
+
+/* menu-icon */
+#icon-menu {
+	fill: #000839;
+	position: absolute;
+	margin: 24px 0 0 16px;
+	cursor: pointer;
+	z-index: 1;
+}
+
+/* title */
+h3 {
+	font-size: 18px;
+	font-weight: 400;
+	color: var(--color-white);
+	position: absolute;
+	margin: 0;
+	width: 100%;
+	text-align: center;
+	line-height: 64px;
+	z-index: 0;
+}
+
+/* search icon */
+#icon-search {
+	fill: var(--color-white);
+	position: absolute;
+	top: 23px;
+	right: 14px;
+	z-index: 1;
+	cursor: pointer;
+}
+/* search bar */
+#search-bar {
+	width: 256px;
+	height: 40px;
+	border-radius: 20px 0 0 20px;
+	border: none;
+	box-shadow: 1px 1px 8px -2px hsla(0, 0%, 0%, 0.3);
+	outline: none;
+
+	font-size: 14px;
+	text-indent: 8px;
+	color: var(--color-pink);
+	position: absolute;
+	top: 11px;
+	left: 320px;
+}
+::placeholder {
+	color: var(--color-pink);
+}
+
+/* search bar animation */
+.search-bar-slide-in {
+	animation: slide-in 0.5s ease-in forwards;
+}
+@keyframes slide-in {
+	from {
+		transform: translateX(0);
+	}
+	to {
+		transform: translateX(-258px);
+	}
+}
+.search-icon-gray {
+	animation: turn-gray 0.5s ease-in-out 0.3s forwards;
+}
+@keyframes turn-gray {
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+		fill: var(--color-pink);
+	}
+}
+
+.search-bar-slide-out {
+	animation: slide-out 0.5s ease-in forwards;
+}
+@keyframes slide-out {
+	from {
+		transform: translateX(-258px);
+	}
+	to {
+		transform: translateX(0);
+	}
+}
+.search-icon-white {
+	animation: turn-white 0.5s ease-in-out forwards;
+}
+@keyframes turn-white {
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+		fill: var(--color-white);
+	}
+}
