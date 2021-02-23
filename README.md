@@ -157,6 +157,7 @@
 | *02* |*Estudei sobre <a href="https://github.com/diegosfc100/aprendendoJS/blob/master/03-JS-ninja/aula03.js"> objetos, métodos de objetos e funções anonimas</a>; resolvi o <a hef="https://github.com/diegosfc100/aprendendoJS/blob/master/03-JS-ninja/challenge-03.js"> desafio 03 do Curso JsNinja </a>, criei uma <a href="https://github.com/diegosfc100/Controle-Financeiro"> aplicação de controle financeiro com html, css e js vanilla</a>* |  |
 | *03* |*Estudei sobre falsy e truthy; condicional ternário e escopo de váriaveis, resolvi o desafio 04 do Curso JsNinja e também alguns exercícios do módulo ES6 do freecodecamp.* |  |
 | *10* |*Resolvi alguns exercícios(ES6) do freecodecamp e criei 1 projeto.* |  |
+| *23* |*Revisei todas aulas estudadas do Curso JSninja e resolvi o desafio 05* |  |
 
 </details>
 <hr>
