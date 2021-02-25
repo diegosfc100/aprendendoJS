@@ -22,7 +22,7 @@
 - [Curso - Programação em JavaScript do básico ao avançado.](https://www.udemy.com/course/curso-de-programacao-em-javascript-do-basico-ao-avancado/learn/lecture/16337750#overview)
 - [Freecodecamp - JavaScript Algorithms and Data Structures.](https://www.freecodecamp.org/learn/)
 - [Curso - JavaScript Ninja ](https://www.udemy.com/course/curso-javascript-ninja/)
-- [Desafios - Edabit.com](https://edabit.com/user/XS4H26eMPj4Xos3nN)
+- [Curso - Javascript com Prof. Roger Melo](https://app.nutror.com/v3/curso/a977a43d31cedcb6e7d064649ddd6c5436155aaf)
 
 ## JS:
 
@@ -158,6 +158,7 @@
 | *03* |*Estudei sobre falsy e truthy; condicional ternário e escopo de váriaveis, resolvi o desafio 04 do Curso JsNinja e também alguns exercícios do módulo ES6 do freecodecamp.* |  |
 | *10* |*Resolvi alguns exercícios(ES6) do freecodecamp e criei 1 projeto.* |  |
 | *23* |*Revisei todas aulas estudadas do Curso JSninja e resolvi o desafio 05* |  |
+| *24* |*Resolvi o desafio 06 do Curso JSninja e fiz resumos de algumas aulas* |  |
 
 </details>
 <hr>
