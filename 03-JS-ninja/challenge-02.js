@@ -58,7 +58,7 @@ console.log(multiP(2, 10,5));
 //102
 
 /*
-Crie uma função com as seguintes características:
+Crie uma função com as seguintes características: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 1. A função deve receber 3 argumentos.
 2. Se somente um argumento for passado, retorne o valor do argumento.
 3. Se dois argumentos forem passados, retorne a soma dos dois argumentos.
