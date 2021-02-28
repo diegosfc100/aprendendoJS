@@ -160,7 +160,9 @@
 | *23* |*Revisei todas aulas estudadas do Curso JSninja e resolvi o desafio 05* |  |
 | *24* |*Resolvi o desafio 06 do Curso JSninja e fiz resumos de algumas aulas* |  |
 | *25* |*Resolvi alguns exercícios do Freecodecamp; fiz resumo de algumas aulas já estudadas; dei inicío ao projeto da minha primeira calculadora.* |  |
-| *26* |*Resolvi alguns exercícios do Freecodecamp; fiz resumo da aula07*(Operador módulo; .length; .push; loop for) do curso JSninja e resolvi o desafio 07; comecei a criar uma aplicação de Quiz.* |  |
+| *26* |*Resolvi alguns exercícios do Freecodecamp; fiz resumo da aula07(Operador módulo; .length; .push; loop for) do curso JSninja e resolvi o desafio 07; comecei a criar uma aplicação de Quiz.* |  |
+| *28* |*Fiz algumas modificaçõe na aplicação Quiz App* |  |
+
 
 </details>
 <hr>
