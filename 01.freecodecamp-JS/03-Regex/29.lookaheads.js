@@ -30,3 +30,9 @@ checkPass.test(password); // Returns true
 
 
 // Use lookaheads no pwRegex para fazer a correspondência de senhas com mais de 5 caracteres e dois dígitos consecutivos.
+
+
+let sampleWord = "astronaut";
+let pwRegex = /(?=\w{6,})(?=\D*\d{2})/; 
+let result = pwRegex.test(sampleWord);
+
