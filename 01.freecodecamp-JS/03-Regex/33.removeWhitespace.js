@@ -9,3 +9,6 @@ das strings.
 Nota: O método String.prototype.trim() funcionaria aqui, mas você precisará completar este desafio usando expressões 
 regulares. */
 
+let hello = "   Hello, World!  "
+let wsRegex = /^\s+|\s+$/g
+let result = hello.replace(wsRegex,'')
