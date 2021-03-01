@@ -56,3 +56,17 @@
     console.log(user);
     console.log(user.logBlogPosts());
     console.log(user.logName());
+
+    /*
+   RESUMO/ANOTAÇÕES:
+      - O escopo define a área onde uma variável está disponível ou não
+      - Variáveis definidas na raiz do documento estão no escopo global, disponível em todo códgio
+      - let e const definem escopo de bloco onde foram criadas
+      - a palavra var ignora o escopo de bloco
+      - Váriaveis declaradas em escopos diferentes podem receber o mesmo nome, pois são tratadas como entidades separadas
+      - O this é um objeto de contexto. Ele representa o contexto no qual o código atual está sendo executado
+      - O valor do this depende de onde ele foi chamado ou como
+      - Na raiz do documento o this referencia o objeto global. Para o navegador o objeto global é o window object
+      - Quando o this é usado dentro de um método de um objeto ele vai referênciar o próprio objeto. Isso se o método for definido com function declaration
+      - Se o método for uma arrow function o valor do this será o mesmo de onde o método foi invocado. Se for a raiz do documento será o objeto global
+*/
