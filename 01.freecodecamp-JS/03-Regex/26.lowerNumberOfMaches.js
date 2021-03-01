@@ -18,3 +18,7 @@ multipleA.test(A100); // Returns true
 
 
 //Altere o regex haRegex para corresponder à palavra "Hazzah" somente quando tiver quatro ou mais letras z.
+
+let haStr = "Hazzzzah"
+let haRegex = /Haz{4,}ah/
+let result = haRegex.test(haStr)
