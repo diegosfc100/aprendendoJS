@@ -19,3 +19,6 @@ Por exemplo, para corresponder apenas à letra a que aparece entre 3 e 5 vezes n
  
 //Altere o regex ohRegex para corresponder à frase inteira "Oh no" somente quando ele tiver de 3 a 6 letras h.
 
+let ohStr = "Ohhh no";
+let ohRegex = /oh{3,6}\sno/i; 
+let result = ohRegex.test(ohStr);
