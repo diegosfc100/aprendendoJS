@@ -161,13 +161,17 @@
 | *24* |*Resolvi o desafio 06 do Curso JSninja e fiz resumos de algumas aulas* |  |
 | *25* |*Resolvi alguns exercícios do Freecodecamp; fiz resumo de algumas aulas já estudadas; dei inicío ao projeto da minha primeira calculadora.* |  |
 | *26* |*Resolvi alguns exercícios do Freecodecamp; fiz resumo da aula07(Operador módulo; .length; .push; loop for) do curso JSninja e resolvi o desafio 07; comecei a criar uma aplicação de Quiz.* |  |
-| *28* |*Fiz algumas modificaçõe na aplicação Quiz App* |  |
+| *28* |*Fiz algumas modificações na aplicação Quiz App* |  |
 
 
 </details>
 <hr>
 <details>
   <summary> :paperclip: Março </summary><br>
+
+  |*Dia*|*Estudos*|
+| -------- | ----------------- |
+| *01* |*Finalizei o módulo 03-Regex do Freecodecamp; criei mais alguns resumo de aulas; acrescentei um contador de pontos e uma barra de progresso na aplicação Quiz App* |  |
 </details>
 <details>
   <summary> :paperclip: Abril </summary><br>
