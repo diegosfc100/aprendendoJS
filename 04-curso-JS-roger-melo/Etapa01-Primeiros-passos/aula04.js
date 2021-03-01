@@ -85,3 +85,17 @@
     console.log(numberTen); // false
 
 
+/*
+   RESUMO:
+      - Váriaveis e constantes são usadas para armazenar valores dentro de uma aplicação.
+
+      - Podemos declarar uma váriavel utilizando a palavra let ou var(Método antigo)
+
+      - Podemos alterar o valor de uma variável a qualquer momento reatribuindo um novo valor
+
+      - Constantes são declaradas utilizando a palavra const, e não podem sofrer reatribuição
+
+      - Existem atualmente 8 tipos de dados em JS
+
+      - JS é uma linguagem dinamicamente tipada
+*/
