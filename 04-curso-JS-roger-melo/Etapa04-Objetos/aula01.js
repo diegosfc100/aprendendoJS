@@ -39,4 +39,12 @@
         console.log(celular.key); // undefined
   
   
-        
+        /*
+   RESUMO/ANOTAÇÕES:
+      - Objetos são representações de algo do mundo real, possuindo propriedades e métodos
+      - Objetos são uma das partes mais importantes do JS
+      - Praticamente tudo em JavaScript é um objeto
+      - Podemos acessar as propriedades de um objeto usando a notação de ponto e de colchetes
+      - Podemos reatribuir o valor de uma propriedade
+      - Podemos usar uma string ou uma variável que contenha uma string para acessar uma propriedade
+*/
