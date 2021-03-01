@@ -46,3 +46,18 @@
     pontoUm.idade = 20;
 
     console.log(pontoUm, pontoDois);
+
+
+    /*
+   RESUMO/ANOTAÇÕES:
+      - Arrays também podem recer objetos como itens
+      - É possível iterar por um array de objetos e acessar cada propriedade desse objeto
+      - JS possue diversos obejets embutidos, entre eles o Math, que fornece uma série de propriedades e métodos para realizar operações matemáticas
+      - Valores primitivos e valores de referência são armazenados em lugares diferentes na memória
+      - Valores primitivos são armazenados na stack, onde o valor é armazenado e pode ser acessado por um identificador(variável)
+      - Valores de referência são armazenados no heap, porém quando isso é feito o identificador desse valor é criado na stack e armazena um ponteiro para o valor que está no heap. Dessa forma o valor só é criado apenas uma vez
+      - Quando copiamos um valor de referência para outro, aquele valor não é duplicado. Ele continua sendo armazenado apenas uma vez no heap. Porém o ponteiro que aponta para ele é duplicado na stack, portanto os dois identificadores armazenam um ponteiro para o mesmo valor.
+      - Por isso, ao alterar um valor de referência a sua cópia também reflete as alterações
+      - Isso não acontece com valores primitivos, pois quando um valor é duplicado ele realmente é duplicado na stack. 
+      - stack é menor que o heap, porém mais rápida
+*/
