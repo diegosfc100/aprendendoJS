@@ -16,4 +16,8 @@ multipleHA.test(A3); // Returns true
 multipleHA.test(A100); // Returns false
 
 
-// Altere o regex timRegex para corresponder à palavra "Madeira" somente quando ela tiver quatro letras m.
+// Altere o regex timRegex para corresponder à palavra "Timber" somente quando ela tiver quatro letras m.
+
+let timStr = "Timmmmber";
+let timRegex = /Tim{4}ber/
+let result = timRegex.test(timStr);
