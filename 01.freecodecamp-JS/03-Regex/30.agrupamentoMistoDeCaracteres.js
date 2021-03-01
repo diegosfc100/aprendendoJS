@@ -17,5 +17,7 @@ a maiúsculas e minúsculas e faça concessões para nomes do meio.
 Em seguida, corrija o código para que a regex que você criou seja verificada em relação a myString
 e true ou false seja retornado, dependendo da correspondência da regex. */
 
-
+let myString = "Eleanor Roosevelt";
+let myRegex = /(Franklin|Eleanor).*Roosevelt/
+let result = myRegex.test(myString)
 
