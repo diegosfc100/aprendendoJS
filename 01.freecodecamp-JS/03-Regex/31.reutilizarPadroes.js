@@ -22,3 +22,6 @@ repeatStr.match(repeatRegex); // Returns ["regex regex", "regex"]
 Use grupos de captura em reRegex para corresponder a uma string que consiste apenas no mesmo número repetido exatamente
 três vezes separado por espaços simples. */
 
+let repeatNum = "42 42 42"
+let reRegex = /^(\d+)\s\1\s\1$/
+let result = reRegex.test(repeatNum)
