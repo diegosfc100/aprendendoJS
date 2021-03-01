@@ -24,3 +24,9 @@ Em seguida, atualize a variável replaceText para substituir "um dois três" pel
 resultado à variável de resultado. Certifique-se de utilizar grupos de captura na string de substituição usando a
 sintaxe do cifrão ($). */
 
+let str = "one two three"
+let fixRegex =/(\w+)\s(\w+)\s(\w+)/
+let replaceText = "$3 $2 $1"
+let result = str.replace(fixRegex, replaceText)
+
+
