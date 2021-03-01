@@ -13,3 +13,7 @@ whiteSpace.match(nonSpaceRegex).length; // Returns 32
 
 // Altere a regex countNonWhiteSpace para procurar vários caracteres que não sejam de espaço em branco em uma string.
 
+let sample = "Whitespace is important in separating words";
+let countNonWhiteSpace = /\S/g;
+let result = sample.match(countNonWhiteSpace);
+console.log(result);
