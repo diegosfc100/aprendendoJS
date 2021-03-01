@@ -16,4 +16,8 @@ rainbowRegex.test(american); // Returns true
 rainbowRegex.test(british); // Returns true
 
 
-// Altere a regex favRegex para corresponder à versão em inglês americano (favourite) e em inglês britânico (favorito) da palavra.
+// Altere a regex favRegex para corresponder à versão em inglês americano (favorite) e em inglês britânico (favourite) da palavra.
+
+let favWord = "favorite"
+let favRegex = /favou?rite/
+let result = favRegex.test(favWord)
