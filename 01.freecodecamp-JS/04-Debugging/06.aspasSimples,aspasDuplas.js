@@ -23,3 +23,6 @@ const allSameQuotes = 'I\'ve had a perfectly wonderful evening, but this wasn\'t
 
 Corrija a string para que use aspas diferentes para o valor href ou escape as existentes. Mantenha as aspas duplas ao
 redor de toda a string. */
+
+let innerHtml = "<p>Click here to <a href='#Home'>return home</a></p>";
+console.log(innerHtml);
