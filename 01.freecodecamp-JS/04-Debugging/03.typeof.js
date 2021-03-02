@@ -19,3 +19,7 @@ Observe que, em JavaScript, os arrays são tecnicamente um tipo de objeto.
 
 Adicione duas instruções console.log() para verificar o tipo de cada uma das duas variáveis ​​sete e três no código. */
 
+let seven = 7;
+let three = "3";
+console.log(typeof seven);
+console.log(typeof three);
