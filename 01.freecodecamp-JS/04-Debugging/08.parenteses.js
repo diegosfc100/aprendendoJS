@@ -16,3 +16,11 @@ let varTwo = myFunction(); // set to equal the string "You rock!"
 
 Corrija o código para que o resultado da variável seja definido como o valor retornado da chamada da função getNine. */
 
+function getNine() {
+  let x = 6;
+  let y = 3;
+  return x + y;
+}
+
+let result = getNine();
+console.log(result);
