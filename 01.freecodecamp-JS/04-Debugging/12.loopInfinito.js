@@ -20,8 +20,13 @@ do terminal. Outro está redefinindo acidentalmente um contador ou variável de 
 em vez de incrementá-lo ou decrementá-lo.
 
 A função myFunc() contém um loop infinito porque a condição terminal i! = 4 nunca será avaliada como falsa 
-(e interromperá o loop) -i aumentará 2 a cada passagem e pulará para 4, pois i é estranho para começar.
+(e interromperá o loop) - i aumentará 2 a cada passagem e pulará para 4, pois i é estranho para começar.
 Fixe o operador de comparação na condição do terminal para que o loop execute apenas para i menor ou igual a 4. */
 
+function myFunc() {
+  for (let i = 1; i <= 4; i += 2) {
+    console.log("Still going!");
+  }
+}
 
-
+console.log(myFunc());
