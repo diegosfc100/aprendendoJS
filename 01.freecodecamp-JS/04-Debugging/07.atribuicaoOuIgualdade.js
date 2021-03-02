@@ -26,3 +26,14 @@ if (x = y) {
 
 Corrija a condição para que o programa execute a ramificação certa e o valor apropriado seja atribuído ao resultado. */
 
+let x = 7;
+let y = 9;
+let result = "to come";
+
+if(x == y) {
+  result = "Equal!";
+} else {
+  result = "Not equal!";
+}
+
+console.log(result);
