@@ -23,3 +23,8 @@ isso pode ajudar a depurar funções que são chamadas durante o teste.
 Primeiro, use console.log para registrar a variável de saída. Em seguida, use console.clear para limpar o console do 
 navegador. */
 
+
+let output = "Get this to log once in the freeCodeCamp console and twice in the browser console";
+console.log(output);
+
+console.clear() ;
