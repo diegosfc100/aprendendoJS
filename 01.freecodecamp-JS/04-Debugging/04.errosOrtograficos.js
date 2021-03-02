@@ -9,3 +9,8 @@ procure um objeto que não existe - e reclamará na forma de um erro de referên
 JavaScript diferenciam maiúsculas de minúsculas.
 
 Corrija os dois erros de ortografia no código para que o cálculo netWorkingCapital funcione. */
+
+let receivables = 10;
+let payables = 8;
+let netWorkingCapital = receivables - payables;
+console.log(`Net working capital is: ${netWorkingCapital}`);
