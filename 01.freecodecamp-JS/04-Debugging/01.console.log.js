@@ -16,3 +16,10 @@ Aqui está um exemplo para imprimir 'Olá, mundo!' para o console:
 console.log ('Olá, mundo!');
 
 Use o método console.log() para imprimir o valor da variável a onde anotado no código. */
+
+let a = 5;
+let b = 1;
+a++;
+
+let sumAB = a + b;
+console.log(a);
