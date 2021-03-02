@@ -9,3 +9,11 @@ necessários, na ordem adequada para evitar esses problemas.
 A função raiseToPower eleva uma base a um expoente. Infelizmente, não é chamado corretamente - corrija o código para 
 que o valor da potência seja o 8 esperado.*/
 
+function raiseToPower(b, e) {
+    return Math.pow(b, e);
+  }
+  
+  let base = 2;
+  let exp = 3;
+  let power = raiseToPower(base, exp);
+  console.log(power);
