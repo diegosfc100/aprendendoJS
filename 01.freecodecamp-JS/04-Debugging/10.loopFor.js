@@ -27,3 +27,15 @@ for (let k = 0; k < len; k++) {
 
 
 Corrija os dois erros de indexação na função a seguir para que todos os números de 1 a 5 sejam impressos no console. */
+
+function countToFive() {
+  let firstFive = "12345";
+  let len = firstFive.length;
+  // Only change code below this line
+  for (let i = 0; i < len; i++) {
+  // Only change code above this line
+    console.log(firstFive[i]);
+  }
+}
+
+countToFive();
