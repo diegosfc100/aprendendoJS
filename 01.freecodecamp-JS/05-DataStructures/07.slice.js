@@ -7,12 +7,13 @@ o primeiro é o índice no qual iniciar a extração e o segundo é o índice no
 
 let weatherConditions = ['chuva', 'neve', 'granizo', 'granizo', 'claro'];
 
-let todaysWeather = weatherConditions.slice (1, 3);
+let todaysWeather = weatherConditions.slice(1, 3);
 // todaysWeather igual a['neve', 'granizo'];
 // weatherConditions ainda é igual a ['chuva', 'neve', 'granizo', 'granizo', 'claro']
 
 /* Na verdade, criamos um novo array extraindo elementos de um array existente.
-Definimos uma função, previsão, que leva um array como argumento. Modifique a função usando slice() para extrair
+
+Definimos uma função, forecast(), que leva um array como argumento. Modifique a função usando slice() para extrair
 informações do array de argumentos e retornar um novo array que contém os elementos 'warm' e 'sunny':
 
 function forecast(arr) {
@@ -25,4 +26,13 @@ function forecast(arr) {
 console.log(forecast(['cold', 'rainy', 'warm', 'sunny', 'cool', 'thunderstorms']));
 
 */
+
+function forecast(arr) {
+    let newArr = arr.slice(2,4);
+    
+    return newArr;
+  }
+  
+  // Only change code above this line
+  console.log(forecast(['cold', 'rainy', 'warm', 'sunny', 'cool', 'thunderstorms']));
 
