@@ -11,8 +11,8 @@ let thatArray = [...thisArray];
 // thatArray é igual a [true, true, undefined, false, null]
 // thisArray permanece inalterado e thatArray contém os mesmos elementos que thisArray
 
-Definimos uma função, copyMachine, que recebe arr(uma matriz) e num(um número) como argumentos.
-A função deve retornar uma nova matriz composta de várias cópias de arr. Fizemos a maior parte do trabalho para você, 
+Definimos uma função, copyMachine, que recebe arr(uma array) e num(um número) como argumentos.
+A função deve retornar uma nova array composta de várias cópias de arr. Fizemos a maior parte do trabalho para você, 
 mas ainda não funciona bem. Modifique a função usando a sintaxe de propagação para que funcione corretamente 
 (dica: outro método que já abordamos pode ser útil aqui!) :
 
@@ -30,4 +30,18 @@ function copyMachine(arr, num) {
 console.log(copyMachine([true, false, true], 2));
 
 */
+
+function copyMachine(arr, num) {
+    let newArr = [];
+    while (num >= 1) {
+        newArr.push([...arr]);
+    
+    num--;
+    }
+    return newArr;
+  }
+  
+  console.log(copyMachine([true, false, true], 2));
+
+
 
