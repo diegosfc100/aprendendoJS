@@ -35,3 +35,8 @@ let myArray = ["a", "b", "c", "d"];
 console.log(myArray);
 
 */
+
+let myArray = ["a", "b", "c", "d"];
+myArray[1] = 'bomdia'
+
+console.log(myArray);
