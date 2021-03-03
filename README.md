@@ -172,6 +172,7 @@
   |*Dia*|*Estudos*|
 | -------- | ----------------- |
 | *01* |*Finalizei o módulo 03-Regex do Freecodecamp; criei mais alguns resumo de aulas; acrescentei um contador de pontos e uma barra de progresso na aplicação Quiz App* |  |
+| *02* |*Finalizei o módulo 04-Debugging do Freecodecamp; criei a página de pontuação na aplicação Quiz App* |  |
 </details>
 <details>
   <summary> :paperclip: Abril </summary><br>
