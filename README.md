@@ -173,7 +173,7 @@
 | -------- | ----------------- |
 | *01* |*Finalizei o módulo 03-Regex do Freecodecamp; criei mais alguns resumo de aulas; acrescentei um contador de pontos e uma barra de progresso na aplicação Quiz App* |  |
 | *02* |*Finalizei o módulo 04-Debugging do Freecodecamp; criei a página de pontuação na aplicação Quiz App* |  |
-| *10* |*Criei um resumo da aula 08 do curso JSninja* |  |
+| *10* |*Criei um resumo da aula 09 do curso JSninja* |  |
 </details>
 <details>
   <summary> :paperclip: Abril </summary><br>
