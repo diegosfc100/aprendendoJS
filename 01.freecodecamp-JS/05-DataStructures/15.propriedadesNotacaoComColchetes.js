@@ -9,8 +9,8 @@ let selectedFood = getCurrentFood(scannedItem);
 let inventory = foods[selectedFood];
 
 Este código avaliará o valor armazenado na variável selectedFood e retornará o valor dessa chave no objeto alimentos,
- ou indefinido se não estiver presente. A notação de colchetes é muito útil porque às vezes as propriedades do objeto
- não são conhecidas antes do tempo de execução ou precisamos acessá-las de uma maneira mais dinâmica.
+ou indefinido se não estiver presente. A notação de colchetes é muito útil porque às vezes as propriedades do objeto
+não são conhecidas antes do tempo de execução ou precisamos acessá-las de uma maneira mais dinâmica.
 
 Definimos uma função, checkInventory, que recebe um item digitalizado como um argumento.
 Retorna o valor atual da chave scannedItem no objeto alimentos. Você pode presumir que apenas as chaves válidas
@@ -34,3 +34,18 @@ function checkInventory(scannedItem) {
 console.log(checkInventory("apples"));
 
 */
+
+let foods = {
+  apples: 25,
+  oranges: 32,
+  plums: 28,
+  bananas: 13,
+  grapes: 35,
+  strawberries: 27
+};
+
+function checkInventory(scannedItem) {
+  return foods[scannedItem];
+}
+
+console.log(checkInventory("apples"));
