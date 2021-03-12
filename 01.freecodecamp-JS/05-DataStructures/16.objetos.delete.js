@@ -15,6 +15,22 @@ delete foods.apples;
 
 Use a palavra-chave delete para remover as chaves de laranjas, ameixas e morangos do objeto alimentos.
 
+let foods = {
+  apples: 25,
+  oranges: 32,
+  plums: 28,
+  bananas: 13,
+  grapes: 35,
+  strawberries: 27
+};
+
+// Only change code below this line
+
+// Only change code above this line
+
+console.log(foods);
+
+*/
 
 let foods = {
   apples: 25,
@@ -25,11 +41,9 @@ let foods = {
   strawberries: 27
 };
 
-function checkInventory(scannedItem) {
-  return foods[scannedItem];
-}
+delete foods.oranges;
+delete foods.strawberries;
+delete foods.plums;
 
-console.log(checkInventory("apples"));
-
-*/
+console.log(foods);
 
