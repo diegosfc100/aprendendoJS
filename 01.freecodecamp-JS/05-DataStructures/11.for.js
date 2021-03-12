@@ -16,7 +16,7 @@ function greaterThanTen(arr) {
   return newArr;
 }
 
-greaterThanTen([2, 12, 8, 14, 80, 0, 1]);
+console.log(greaterThanTen([2, 12, 8, 14, 80, 0, 1]));
 
 
 /* Usando um loop for, essa função itera e acessa cada elemento do array e o submete a um teste simples que criamos. 
@@ -39,3 +39,17 @@ function filteredArray(arr, elem) {
 console.log(filteredArray([[3, 2, 3], [1, 6, 3], [3, 13, 26], [19, 3, 9]], 3));
 
 */
+
+function filteredArray(arr, elem) {
+  let newArr = [];
+
+  for(let i = 0; i < arr.length; i++){
+    if(arr[i].indexOf(elem) == -1){
+      newArr.push(arr[i]);
+    }
+  }
+
+  return newArr;
+}
+
+console.log(filteredArray([["trumpets", 2], ["flutes", 4], ["saxophones", 2]], 2) );
