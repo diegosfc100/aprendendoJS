@@ -19,6 +19,7 @@ fruits.indexOf('pears');
 (o primeiro índice em que cada elemento existe).
 
 indexOf() pode ser incrivelmente útil para verificar rapidamente a presença de um elemento em um array.
+
 Definimos uma função, quickCheck, que recebe um array e um elemento como argumentos. 
 Modifique a função usando indexOf() para que ela retorne verdadeiro se o elemento passado existir na matriz e 
 falso se não existir.
@@ -29,5 +30,12 @@ function quickCheck(arr, elem) {
   // Only change code above this line
 }
 
-console.log(quickCheck(['squash', 'onions', 'shallots'], 'mushrooms'));  */
+console.log(quickCheck(['squash', 'onions', 'shallots'], 'mushrooms'));
 
+*/
+
+function quickCheck(arr, elem) {
+    return arr.indexOf(elem) != -1
+    }
+
+console.log(quickCheck(["squash", "onions", "shallots"], "onions")) ;
