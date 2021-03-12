@@ -40,3 +40,35 @@ function countOnline(usersObj) {
 }
 
 */
+
+let usersObj = {
+  Alan: {
+      age: 27,
+      online: false
+  },
+  Jeff: {
+      age: 32,
+      online: true
+  },
+  Sarah: {
+      age: 48,
+      online: false
+  },
+  Ryan: {
+      age: 19,
+      online: true
+  }
+};
+
+function countOnline(usersObj) {
+  let onlineArr = [];
+
+  for(let user in usersObj){
+      if(usersObj[user].online == true){
+        onlineArr.push(user);
+      }
+  }
+    return onlineArr.length
+}
+
+console.log(countOnline(usersObj));
