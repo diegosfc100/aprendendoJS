@@ -13,21 +13,22 @@ rapidamente se tornar uma estrutura de dados muito complexa, conhecida como uma 
 Considere o seguinte exemplo: */
 
 let nestedArray = [
-    ['deep'],
+  ['deep'],
+  [
+    ['deeper'], ['deeper'] 
+  ],
+  [
     [
-      ['deeper'], ['deeper'] 
+      ['deepest'], ['deepest']
     ],
     [
       [
-        ['deepest'], ['deepest']
-      ],
-      [
-        [
-          ['deepest-est?']
-        ]
+        ['deepest-est?']
       ]
     ]
-  ];
+  ]
+];
+
   
 
 /* A arrays 'profunda' está aninhada em 2 níveis de profundidade. As matrizes 'mais profundas' têm 3 níveis de 
@@ -62,3 +63,10 @@ let myNestedArray = [
 
 */
 
+let myNestedArray = [
+  ['unshift', false, 1, 2, 3, 'complex', 'nested'],
+  ['loop', 'shift', 6, 7, 1000, 'method'],
+  ['concat', false, true, 'spread', 'array', ['deep', ['deeper', ['deepest']]]],
+  ['mutate', 1327.98, 'splice', 'slice', 'push'],
+  ['iterate', 1.3849, 7, '8.4876', 'arbitrary', 'depth']
+];
