@@ -13,3 +13,10 @@ Use a variável fahrenheit já definida e atribua a ela a temperatura Fahrenheit
 convertToF(30);
 
 */
+
+function convertToF(celsius) {
+  let fahrenheit = celsius * 9 / 5 + 32;
+  return fahrenheit;
+}
+
+convertToF(30);
