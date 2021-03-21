@@ -4,15 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Quote Generator</title>
-    <link rel="icon" type="image/png" href="https://s2.googleusercontent.com/s2/favicons?domain=www.jacinto.design">
+    <link rel="icon" type="image/png" href="favicon.png">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/all.min.css"/>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <!-- Loader -->
-    <div id="loader"></div>
-    <!-- Container -->
-    <div class="quote-container">
+    <div class="quote-container" id="quote-container">
         <!-- Quote -->
         <div class="quote-text">
             <i class="fas fa-quote-left"></i>
@@ -30,7 +27,10 @@
             <button id="new-quote">New Quote</button>
         </div>
     </div>
+    <!-- Loader -->
+    <div class="loader" id="loader"></div>
     <!-- Script -->
-    <script src="script.js"></script>
+    <script src="quotes.js"></script>
+    <script src="js/script.js"></script>
 </body>
 </html>
