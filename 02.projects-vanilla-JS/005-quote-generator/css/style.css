@@ -98,3 +98,18 @@ button:active {
     animation: spin 2s linear infinite;
     background-color: red;
 }
+
+@-webkit-keyframes spin {
+    0% { -webkit-transform: rotate(0deg); }
+    100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+@media screen and (max-width: 1000px) {
+    .quote-container { margin: auto 10px; }
+    .quote-text { font-size: 2.5rem; }
+} 
