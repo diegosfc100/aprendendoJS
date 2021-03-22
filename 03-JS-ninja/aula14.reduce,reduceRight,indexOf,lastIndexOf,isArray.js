@@ -27,14 +27,14 @@
 		// A mesma coisa que o reduce só que vai no sentido contrário, da direita pra esquerda
 		arr = [ 'D', 'i', 'e', 'g', 'o' ];
 		var reduce = arr.reduceRight(function(acumulado, atual, index, array){
-			return acumuludo + atual;
+			return acumulado + atual;
 		});
 		console.log( reduce ); // 'ogeiD'
-		
+
 
 		var arr = [ 1, 2, 3, 4, 5 ];
 		var reduce = arr.reduceRight(function(acumulado, atual, index, array){
-			return acumuludo * atual; // neste caso altera o resultado pois trata-se de uma multiplicação
+			return acumulado * atual; // neste caso altera o resultado pois trata-se de uma multiplicação
 		}, 1);
 		/*
 		1º - 1 * 5 = 5
@@ -44,3 +44,27 @@
 		5º - 120 * 5 = 600
 		*/
 		console.log( reduce ); // 600
+
+
+	// indexOf()
+		// Procura se o valor existe no array e retorna o seu índice.
+		arr = [ 1, 2, 3, 4, 5 ];
+		console.log( arr.indexOf( 3 ) ); // 2
+		// Se não existir retorna -1
+		console.log( arr.indexOf( 6 ) ); // -1
+		// Você também pode decidir a partir de onde começa a busca, neste caso do indíce 1
+		console.log( arr.indexOf( 4, 1 ) ); // 3
+
+
+	// lastIndexOf()
+		// igual ao indexOf porém procura da ordem inversa, do final.
+		var arr = [ 'D', 'i', 'e', 'g', 'o' ];
+		console.log( arr.lastIndexOf( 'i' ) ); // 1
+		console.log( arr.lastIndexOf( 'e', 3 ) ); 
+		console.log( arr.lastIndexOf( 'o', 1 ) ); 
+
+
+	// isArray()
+		// Diz se é um array ou não, serve para fazer verificação
+		console.log( Array.isArray( arr ) ); // true
+		console.log( Array.isArray( {} ) ); // false
