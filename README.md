@@ -175,6 +175,7 @@
 | *02* |*Finalizei o módulo 04-Debugging do Freecodecamp; criei a página de pontuação na aplicação Quiz App* |  |
 | *10* |*Criei um resumo da aula 09 do curso JSninja* |  |
 | *12* |*Finalizei o módulo Data Structures do Freecodecamp; finalizei o desafio 10 e criei o resumo da aula 11 do curso JSninja; criei o repositorio JS30* |  |
+| *23* |*Criei resumo das aulas 11,12,13 e 14 do Curso JSninja e finazei os desafios 12 e 13; criei também uma aplicação que gera citações de frases.* |  |
 </details>
 <details>
   <summary> :paperclip: Abril </summary><br>
