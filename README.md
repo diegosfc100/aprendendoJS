@@ -195,13 +195,3 @@
 <details>
   <summary> :paperclip: Setembro </summary><br>
 </details>
-<details>
-  <summary> :paperclip: Outubro </summary><br>
-</details>
-<details>
-  <summary> :paperclip: Novembro </summary><br>
-</details>
-<details>
-  <summary> :paperclip: Dezembro </summary><br>
-</details>
-
