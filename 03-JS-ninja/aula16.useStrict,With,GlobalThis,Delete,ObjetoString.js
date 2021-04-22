@@ -135,14 +135,14 @@
 		nome.slice(1, 3) // 'go'
 
 	// split( separador, limite )
-		// quebra a string e a transforma em um array excluindo o item separador sem midificar a string principal
+		// quebra a string e a transforma em um array excluindo o item separador sem modificar a string principal
 		nome = fernando;
 		nome.split() // ['fernando']
 		nome.split('n') // ['fer', 'a', 'do']
 		// você pode usar o split pra separar e o join pra juntar
 		var arr = nome.split('n'); // ['fer', 'a', 'do']
 		arr.join('n') // 'fernando'
-		// Isto server pra fazer subistituições
+		// Isto server pra fazer substituições
 		nome.split('n').join('z'); // 'ferzazdo'
 
 	// substring()
