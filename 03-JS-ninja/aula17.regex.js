@@ -1,8 +1,11 @@
-// Regex - Expressões regulares
+// REGEX
+
 	// Servem para manipular strings 
 	// regex101.com
-    var texto = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis natus reprehenderit harum magni asperiores corporis saepe repudiandae facilis vel quibusdam qui libero enim, a necessitatibus nesciunt, minima assumenda eos! Maiores.";
-	// .match() para utilizar o match deve colocar a expressão que deseja entre / /, por exemplo: /coloque a expressão/
+
+    var texto = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis natus reprehenderit harum magni.";
+	// .match() 
+	// para utilizar o match deve colocar a expressão que deseja entre / /, por exemplo: /coloque a expressão/
 		texto.match(/m/); // pega o primeiro 'm' e retorna um array
 		texto.match(/m/g); // retorna um array com todos os 'm' minusculos do texto, pois g quer dizer global
 		texto.match(/m/i); // retorna um array com todos os 'm' minusculos ou maiusculos do texto, pois i ignora o sensitive case
@@ -49,10 +52,10 @@
 				return (cap1 + cap2).toUpperCase();
 			}); // troca todos os 'de' por 'DE'
 
-			'clara'.replace(/(\w)/g, function(capturaTotal, letra){
+			'diego'.replace(/(\w)/g, function(capturaTotal, letra){
 				return letra.toUpperCase();
 			}); // coloca tudo em caixa alta			
 
-			'clara'.replace(/(\w)(\w)/g, function(capturaTotal, letra1, letra2){
+			'diego'.replace(/(\w)(\w)/g, function(capturaTotal, letra1, letra2){
 				return letra1.toUpperCase() + letra2.toLowerCase();
-			}); // ClArA
+			}); // DiEgO
