@@ -51,7 +51,7 @@ console.log(multiP(2, 10));
 
 
 // Agora invoque novamente a função criada acima, mas passando todos os três argumentos necessários.
-console.log(multiP(2, 10,5));
+console.log(multiP(2, 10, 5));
 
 
 // Qual o resultado da invocação acima? (Use comentários para mostrar o valor retornado).
@@ -66,8 +66,8 @@ Crie uma função com as seguintes características: !!!!!!!!!!!!!!!!!!!!!!!!!!!
 5. Se nenhum argumento for passado, retorne o valor booleano `false`.
 6. E ainda, se nenhuma das condições acima forem atendidas, retorne `null`.
 */
-function teste2(a,b,c){
-    if(a !== undefined && b === undefined && c === undefined){ // a,b,c, são nomes de argumentos aleatorios, nao representam a posição.
+function teste2(a,b,c){ // a,b,c, são nomes de argumentos aleatorios, nao representam a posição.
+    if(a !== undefined && b === undefined && c === undefined){ 
         return a;
     }else if (a !== undefined && b !== undefined && c === undefined ){
         return a + b;

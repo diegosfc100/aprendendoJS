@@ -1,6 +1,7 @@
 // Alguns tipos de valores
     null // Nenhum valor (um valor nulo)
-    undefined // Ausencia de valor (nao existe)
+    undefined // Ausencia de valor. (nao existe) ex: var myvar;
+    // !undefined = not undefined, ou seja, a variavel está com algum valor atribuído.
     NaN // Not a number, quando deveria ser um numero, mas nao é
 
 

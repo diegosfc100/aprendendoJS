@@ -1,37 +1,18 @@
-// Propriedades e métodos de funções
-	// length - conta a quantidade de parâmetros que uma função pode receber
-    function myFunction(a, b, c){}
-    console.log( myFunction.length ); // 3
-
-// toString - mostra a função literalmente
-    function myFunction(a, b, c){
-        return 'oi';
-    }
-    console.log( myFunction.toString() ); 
-    /* 
-    function myFunction(a, b, c){
-        return 'oi';
-    } 
-    */
-
-// call - invoca a função, igual a chamar myFunction(), mas no call você pode passar como parametro o 'this' podendo dizer quem ele vai ser 
-    function myFunction(a, b, c){
-        return 'oi';
-    }
-    console.log( myFunction.call() ); // oi
-
     function myFunction(a, b, c){
         return this.lastName;
     }
-    console.log( myFunction() ); // undefined		
+    console.log( myFunction() ); // undefined	
+    
+    
+
 
     function myFunction(a, b, c){
         return this.lastName;
     }
     var obj = {
-        lastName: 'Battesini'
+        lastName: 'Rodrigues'
     };
-    myFunction.call( obj ); // Battesini - já que o obj vai ser o this da função 
+    myFunction.call(obj); // Rodrigues - já que o obj vai ser o this da função 
 
     // Passando o this e os parametros	
         myFunction.call( obj, 1, 2, 3 );
@@ -154,7 +135,7 @@
         }
         myFunction(1, 2, 3, 4, 5, 6, 7, 8); // 1, 2, 3, 4, 5, 6, 7, 8 engana o javascript chamando o arguments de array
 
-        function myFunction(){
+         function myFunction(){
             var result = Array.prototype.reduce.call( arguments, function( acumulated, actual, index ){
                 return acumulated + actual;
             });	
@@ -165,4 +146,4 @@
                 return acumulated + item;
             });
         }
-        myFunction(1, 2, 3, 4, 5, 6, 7, 8); // 1, 2, 3, 4, 5, 6, 7, 8 engana o javascript chamando o arguments de array
+        myFunction(1, 2, 3, 4, 5, 6, 7, 8); // 1, 2, 3, 4, 5, 6, 7, 8 engana o javascript chamando o arguments de array 
